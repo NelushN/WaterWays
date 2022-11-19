@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>726670413862-tm7n5m7bejuv355501qhhkqavi28tv8g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.726670413862-tm7n5m7bejuv355501qhhkqavi28tv8g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDhGY94q4_6Xw0LoJUp8nWYqSQs8tmAyp4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>726670413862</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ca.ubco.hcilab.roadmap</string>
+	<key>PROJECT_ID</key>
+	<string>roadmap-ubco</string>
+	<key>STORAGE_BUCKET</key>
+	<string>roadmap-ubco.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:726670413862:ios:411bfa8773e7cf59fd56e7</string>
+</dict>
+</plist>

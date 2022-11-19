@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "726670413862",
+    "firebase_url": "https://roadmap-ubco-default-rtdb.firebaseio.com",
+    "project_id": "roadmap-ubco",
+    "storage_bucket": "roadmap-ubco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726670413862:android:4b56238d3bdace0ffd56e7",
+        "android_client_info": {
+          "package_name": "ca.ubco.hcilab.roadmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726670413862-hcb8bdplakfi1997k5t2e44mj79ig6fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOIlY1__dHyyL1IyjpU2rUqxcLgmuPoXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726670413862-hcb8bdplakfi1997k5t2e44mj79ig6fk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "726670413862-tm7n5m7bejuv355501qhhkqavi28tv8g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ca.ubco.hcilab.roadmap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
