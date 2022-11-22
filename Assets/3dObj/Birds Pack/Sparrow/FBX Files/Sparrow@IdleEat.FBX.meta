@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 2d23a88aff5e2ad4cbed882465580445
+timeCreated: 1513034970
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: root
+    100002: //RootNode
+    100004: SPARROW_
+    100006: SPARROW_ Head
+    100008: SPARROW_ L Calf
+    100010: SPARROW_ L Clavicle
+    100012: SPARROW_ L Foot
+    100014: SPARROW_ L Forearm
+    100016: SPARROW_ L Hand
+    100018: SPARROW_ L HorseLink
+    100020: SPARROW_ L Thigh
+    100022: SPARROW_ L Toe0
+    100024: SPARROW_ L Toe01
+    100026: SPARROW_ L Toe02
+    100028: SPARROW_ L Toe1
+    100030: SPARROW_ L Toe11
+    100032: SPARROW_ L Toe12
+    100034: SPARROW_ L UpperArm
+    100036: SPARROW_ Neck
+    100038: SPARROW_ Pelvis
+    100040: SPARROW_ Queue de cheval 1
+    100042: SPARROW_ R Calf
+    100044: SPARROW_ R Clavicle
+    100046: SPARROW_ R Foot
+    100048: SPARROW_ R Forearm
+    100050: SPARROW_ R Hand
+    100052: SPARROW_ R HorseLink
+    100054: SPARROW_ R Thigh
+    100056: SPARROW_ R Toe0
+    100058: SPARROW_ R Toe01
+    100060: SPARROW_ R Toe02
+    100062: SPARROW_ R Toe1
+    100064: SPARROW_ R Toe11
+    100066: SPARROW_ R Toe12
+    100068: SPARROW_ R UpperArm
+    100070: SPARROW_ Spine
+    100072: SPARROW_ Tail
+    100074: SPARROW_ TailL
+    100076: SPARROW_ TailR
+    100078: WingLeftFeatherA
+    100080: WingLeftFeatherB
+    100082: WingLeftFeatherC
+    100084: WingLeftFeatherD
+    100086: WingRightFeatherA
+    100088: WingRightFeatherB
+    100090: WingRightFeatherC
+    100092: WingRightFeatherD
+    400000: root
+    400002: //RootNode
+    400004: SPARROW_
+    400006: SPARROW_ Head
+    400008: SPARROW_ L Calf
+    400010: SPARROW_ L Clavicle
+    400012: SPARROW_ L Foot
+    400014: SPARROW_ L Forearm
+    400016: SPARROW_ L Hand
+    400018: SPARROW_ L HorseLink
+    400020: SPARROW_ L Thigh
+    400022: SPARROW_ L Toe0
+    400024: SPARROW_ L Toe01
+    400026: SPARROW_ L Toe02
+    400028: SPARROW_ L Toe1
+    400030: SPARROW_ L Toe11
+    400032: SPARROW_ L Toe12
+    400034: SPARROW_ L UpperArm
+    400036: SPARROW_ Neck
+    400038: SPARROW_ Pelvis
+    400040: SPARROW_ Queue de cheval 1
+    400042: SPARROW_ R Calf
+    400044: SPARROW_ R Clavicle
+    400046: SPARROW_ R Foot
+    400048: SPARROW_ R Forearm
+    400050: SPARROW_ R Hand
+    400052: SPARROW_ R HorseLink
+    400054: SPARROW_ R Thigh
+    400056: SPARROW_ R Toe0
+    400058: SPARROW_ R Toe01
+    400060: SPARROW_ R Toe02
+    400062: SPARROW_ R Toe1
+    400064: SPARROW_ R Toe11
+    400066: SPARROW_ R Toe12
+    400068: SPARROW_ R UpperArm
+    400070: SPARROW_ Spine
+    400072: SPARROW_ Tail
+    400074: SPARROW_ TailL
+    400076: SPARROW_ TailR
+    400078: WingLeftFeatherA
+    400080: WingLeftFeatherB
+    400082: WingLeftFeatherC
+    400084: WingLeftFeatherD
+    400086: WingRightFeatherA
+    400088: WingRightFeatherB
+    400090: WingRightFeatherC
+    400092: WingRightFeatherD
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: root
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: ae583a7dbf7e92e458e08ee15ca33b69,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

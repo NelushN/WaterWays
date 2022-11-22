@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 506298b8960955a48ad0a9618a8f1f31
+timeCreated: 1510241633
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DUCK_
+    100004: DUCK_ Head
+    100006: DUCK_ L Calf
+    100008: DUCK_ L Clavicle
+    100010: DUCK_ L Foot
+    100012: DUCK_ L Forearm
+    100014: DUCK_ L Hand
+    100016: DUCK_ L HorseLink
+    100018: DUCK_ L Thigh
+    100020: DUCK_ L Toe0
+    100022: DUCK_ L Toe01
+    100024: DUCK_ L Toe02
+    100026: DUCK_ L UpperArm
+    100028: DUCK_ Neck
+    100030: DUCK_ Neck1
+    100032: DUCK_ Neck2
+    100034: DUCK_ Neck3
+    100036: DUCK_ Neck4
+    100038: DUCK_ Pelvis
+    100040: DUCK_ Queue de cheval 1
+    100042: DUCK_ R Calf
+    100044: DUCK_ R Clavicle
+    100046: DUCK_ R Foot
+    100048: DUCK_ R Forearm
+    100050: DUCK_ R Hand
+    100052: DUCK_ R HorseLink
+    100054: DUCK_ R Thigh
+    100056: DUCK_ R Toe0
+    100058: DUCK_ R Toe01
+    100060: DUCK_ R Toe02
+    100062: DUCK_ R UpperArm
+    100064: DUCK_ Spine
+    100066: root
+    100068: TailL
+    100070: TailR
+    100072: WingLeftA
+    100074: WingLeftB
+    100076: WingLeftC
+    100078: WingLeftD
+    100080: WingLeftE
+    100082: WingLeftF
+    100084: WingLeftG
+    100086: WingLeftH
+    100088: WingRightA
+    100090: WingRightB
+    100092: WingRightC
+    100094: WingRightD
+    100096: WingRightE
+    100098: WingRightF
+    100100: WingRightG
+    100102: WingRightH
+    400000: //RootNode
+    400002: DUCK_
+    400004: DUCK_ Head
+    400006: DUCK_ L Calf
+    400008: DUCK_ L Clavicle
+    400010: DUCK_ L Foot
+    400012: DUCK_ L Forearm
+    400014: DUCK_ L Hand
+    400016: DUCK_ L HorseLink
+    400018: DUCK_ L Thigh
+    400020: DUCK_ L Toe0
+    400022: DUCK_ L Toe01
+    400024: DUCK_ L Toe02
+    400026: DUCK_ L UpperArm
+    400028: DUCK_ Neck
+    400030: DUCK_ Neck1
+    400032: DUCK_ Neck2
+    400034: DUCK_ Neck3
+    400036: DUCK_ Neck4
+    400038: DUCK_ Pelvis
+    400040: DUCK_ Queue de cheval 1
+    400042: DUCK_ R Calf
+    400044: DUCK_ R Clavicle
+    400046: DUCK_ R Foot
+    400048: DUCK_ R Forearm
+    400050: DUCK_ R Hand
+    400052: DUCK_ R HorseLink
+    400054: DUCK_ R Thigh
+    400056: DUCK_ R Toe0
+    400058: DUCK_ R Toe01
+    400060: DUCK_ R Toe02
+    400062: DUCK_ R UpperArm
+    400064: DUCK_ Spine
+    400066: root
+    400068: TailL
+    400070: TailR
+    400072: WingLeftA
+    400074: WingLeftB
+    400076: WingLeftC
+    400078: WingLeftD
+    400080: WingLeftE
+    400082: WingLeftF
+    400084: WingLeftG
+    400086: WingLeftH
+    400088: WingRightA
+    400090: WingRightB
+    400092: WingRightC
+    400094: WingRightD
+    400096: WingRightE
+    400098: WingRightF
+    400100: WingRightG
+    400102: WingRightH
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: root
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 092cfa52fbb3c9f4299c3a42a7e51e37,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 304a5ecaeec8eca468447aa555b5abf4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Owl_
+    100004: Owl_ Head
+    100006: Owl_ L Calf
+    100008: Owl_ L Clavicle
+    100010: Owl_ L Foot
+    100012: Owl_ L Forearm
+    100014: Owl_ L Hand
+    100016: Owl_ L HorseLink
+    100018: Owl_ L Thigh
+    100020: Owl_ L Toe0
+    100022: Owl_ L Toe01
+    100024: Owl_ L Toe02
+    100026: Owl_ L Toe1
+    100028: Owl_ L Toe11
+    100030: Owl_ L Toe12
+    100032: Owl_ L UpperArm
+    100034: Owl_ Neck
+    100036: Owl_ Pelvis
+    100038: Owl_ Ponytail1
+    100040: Owl_ R Calf
+    100042: Owl_ R Clavicle
+    100044: Owl_ R Foot
+    100046: Owl_ R Forearm
+    100048: Owl_ R Hand
+    100050: Owl_ R HorseLink
+    100052: Owl_ R Thigh
+    100054: Owl_ R Toe0
+    100056: Owl_ R Toe01
+    100058: Owl_ R Toe02
+    100060: Owl_ R Toe1
+    100062: Owl_ R Toe11
+    100064: Owl_ R Toe12
+    100066: Owl_ R UpperArm
+    100068: Owl_ Spine
+    100070: Owl_ Tail
+    100072: Owl_ TailL
+    100074: Owl_ TailR
+    100076: Owl_WingLeftFeathers1
+    100078: Owl_WingLeftFeathers2
+    100080: Owl_WingLeftFeathers3
+    100082: Owl_WingLefttFeathers4
+    100084: Owl_WingRightFeathers1
+    100086: Owl_WingRightFeathers2
+    100088: Owl_WingRightFeathers3
+    100090: Owl_WingRightFeathers4
+    100092: root
+    400000: //RootNode
+    400002: Owl_
+    400004: Owl_ Head
+    400006: Owl_ L Calf
+    400008: Owl_ L Clavicle
+    400010: Owl_ L Foot
+    400012: Owl_ L Forearm
+    400014: Owl_ L Hand
+    400016: Owl_ L HorseLink
+    400018: Owl_ L Thigh
+    400020: Owl_ L Toe0
+    400022: Owl_ L Toe01
+    400024: Owl_ L Toe02
+    400026: Owl_ L Toe1
+    400028: Owl_ L Toe11
+    400030: Owl_ L Toe12
+    400032: Owl_ L UpperArm
+    400034: Owl_ Neck
+    400036: Owl_ Pelvis
+    400038: Owl_ Ponytail1
+    400040: Owl_ R Calf
+    400042: Owl_ R Clavicle
+    400044: Owl_ R Foot
+    400046: Owl_ R Forearm
+    400048: Owl_ R Hand
+    400050: Owl_ R HorseLink
+    400052: Owl_ R Thigh
+    400054: Owl_ R Toe0
+    400056: Owl_ R Toe01
+    400058: Owl_ R Toe02
+    400060: Owl_ R Toe1
+    400062: Owl_ R Toe11
+    400064: Owl_ R Toe12
+    400066: Owl_ R UpperArm
+    400068: Owl_ Spine
+    400070: Owl_ Tail
+    400072: Owl_ TailL
+    400074: Owl_ TailR
+    400076: Owl_WingLeftFeathers1
+    400078: Owl_WingLeftFeathers2
+    400080: Owl_WingLeftFeathers3
+    400082: Owl_WingLefttFeathers4
+    400084: Owl_WingRightFeathers1
+    400086: Owl_WingRightFeathers2
+    400088: Owl_WingRightFeathers3
+    400090: Owl_WingRightFeathers4
+    400092: root
+    7400000: IdleStretchWingsBranch
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: IdleStretchWingsBranch
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 65
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/Owl_
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ L Thigh
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ L Thigh/Owl_ L Calf
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ L Thigh/Owl_ L Calf/Owl_ L HorseLink
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ L Thigh/Owl_ L Calf/Owl_ L HorseLink/Owl_
+          L Foot
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ L Thigh/Owl_ L Calf/Owl_ L HorseLink/Owl_
+          L Foot/Owl_ L Toe0
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ L Thigh/Owl_ L Calf/Owl_ L HorseLink/Owl_
+          L Foot/Owl_ L Toe0/Owl_ L Toe01
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ L Thigh/Owl_ L Calf/Owl_ L HorseLink/Owl_
+          L Foot/Owl_ L Toe0/Owl_ L Toe01/Owl_ L Toe02
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ L Thigh/Owl_ L Calf/Owl_ L HorseLink/Owl_
+          L Foot/Owl_ L Toe1
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ L Thigh/Owl_ L Calf/Owl_ L HorseLink/Owl_
+          L Foot/Owl_ L Toe1/Owl_ L Toe11
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ L Thigh/Owl_ L Calf/Owl_ L HorseLink/Owl_
+          L Foot/Owl_ L Toe1/Owl_ L Toe11/Owl_ L Toe12
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ R Thigh
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ R Thigh/Owl_ R Calf
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ R Thigh/Owl_ R Calf/Owl_ R HorseLink
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ R Thigh/Owl_ R Calf/Owl_ R HorseLink/Owl_
+          R Foot
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ R Thigh/Owl_ R Calf/Owl_ R HorseLink/Owl_
+          R Foot/Owl_ R Toe0
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ R Thigh/Owl_ R Calf/Owl_ R HorseLink/Owl_
+          R Foot/Owl_ R Toe0/Owl_ R Toe01
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ R Thigh/Owl_ R Calf/Owl_ R HorseLink/Owl_
+          R Foot/Owl_ R Toe0/Owl_ R Toe01/Owl_ R Toe02
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ R Thigh/Owl_ R Calf/Owl_ R HorseLink/Owl_
+          R Foot/Owl_ R Toe1
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ R Thigh/Owl_ R Calf/Owl_ R HorseLink/Owl_
+          R Foot/Owl_ R Toe1/Owl_ R Toe11
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ R Thigh/Owl_ R Calf/Owl_ R HorseLink/Owl_
+          R Foot/Owl_ R Toe1/Owl_ R Toe11/Owl_ R Toe12
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ Spine
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ Spine/Owl_ L Clavicle
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ Spine/Owl_ L Clavicle/Owl_ L UpperArm
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ Spine/Owl_ L Clavicle/Owl_ L UpperArm/Owl_
+          L Forearm
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ Spine/Owl_ L Clavicle/Owl_ L UpperArm/Owl_
+          L Forearm/Owl_ L Hand
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ Spine/Owl_ L Clavicle/Owl_ L UpperArm/Owl_
+          L Forearm/Owl_ L Hand/Owl_WingLeftFeathers1
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ Spine/Owl_ L Clavicle/Owl_ L UpperArm/Owl_
+          L Forearm/Owl_ L Hand/Owl_WingLeftFeathers2
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ Spine/Owl_ L Clavicle/Owl_ L UpperArm/Owl_
+          L Forearm/Owl_WingLeftFeathers3
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ Spine/Owl_ L Clavicle/Owl_ L UpperArm/Owl_WingLefttFeathers4
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ Spine/Owl_ Neck
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ Spine/Owl_ Neck/Owl_ Head
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ Spine/Owl_ Neck/Owl_ Head/Owl_ Ponytail1
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ Spine/Owl_ R Clavicle
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ Spine/Owl_ R Clavicle/Owl_ R UpperArm
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ Spine/Owl_ R Clavicle/Owl_ R UpperArm/Owl_
+          R Forearm
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ Spine/Owl_ R Clavicle/Owl_ R UpperArm/Owl_
+          R Forearm/Owl_ R Hand
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ Spine/Owl_ R Clavicle/Owl_ R UpperArm/Owl_
+          R Forearm/Owl_ R Hand/Owl_WingRightFeathers1
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ Spine/Owl_ R Clavicle/Owl_ R UpperArm/Owl_
+          R Forearm/Owl_ R Hand/Owl_WingRightFeathers2
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ Spine/Owl_ R Clavicle/Owl_ R UpperArm/Owl_
+          R Forearm/Owl_WingRightFeathers3
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ Spine/Owl_ R Clavicle/Owl_ R UpperArm/Owl_WingRightFeathers4
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ Tail
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ TailL
+        weight: 1
+      - path: root/Owl_/Owl_ Pelvis/Owl_ TailR
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: cfc28bae35d11c2499887add5e69c35c,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

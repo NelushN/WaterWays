@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 092cfa52fbb3c9f4299c3a42a7e51e37
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: DUCK_
+    100002: DUCK_ Head
+    100004: DUCK_ L Calf
+    100006: DUCK_ L Clavicle
+    100008: DUCK_ L Foot
+    100010: DUCK_ L Forearm
+    100012: DUCK_ L Hand
+    100014: DUCK_ L HorseLink
+    100016: DUCK_ L Thigh
+    100018: DUCK_ L Toe0
+    100020: DUCK_ L Toe01
+    100022: DUCK_ L Toe02
+    100024: DUCK_ L UpperArm
+    100026: DUCK_ Neck
+    100028: DUCK_ Neck1
+    100030: DUCK_ Neck2
+    100032: DUCK_ Neck3
+    100034: DUCK_ Neck4
+    100036: DUCK_ Pelvis
+    100038: DUCK_ Queue de cheval 1
+    100040: DUCK_ R Calf
+    100042: DUCK_ R Clavicle
+    100044: DUCK_ R Foot
+    100046: DUCK_ R Forearm
+    100048: DUCK_ R Hand
+    100050: DUCK_ R HorseLink
+    100052: DUCK_ R Thigh
+    100054: DUCK_ R Toe0
+    100056: DUCK_ R Toe01
+    100058: DUCK_ R Toe02
+    100060: DUCK_ R UpperArm
+    100062: DUCK_ Spine
+    100064: root
+    100066: //RootNode
+    100068: SK_Duck
+    100070: TailL
+    100072: TailR
+    100074: WingLeftA
+    100076: WingLeftB
+    100078: WingLeftC
+    100080: WingLeftD
+    100082: WingLeftE
+    100084: WingLeftF
+    100086: WingLeftG
+    100088: WingLeftH
+    100090: WingRightA
+    100092: WingRightB
+    100094: WingRightC
+    100096: WingRightD
+    100098: WingRightE
+    100100: WingRightF
+    100102: WingRightG
+    100104: WingRightH
+    400000: DUCK_
+    400002: DUCK_ Head
+    400004: DUCK_ L Calf
+    400006: DUCK_ L Clavicle
+    400008: DUCK_ L Foot
+    400010: DUCK_ L Forearm
+    400012: DUCK_ L Hand
+    400014: DUCK_ L HorseLink
+    400016: DUCK_ L Thigh
+    400018: DUCK_ L Toe0
+    400020: DUCK_ L Toe01
+    400022: DUCK_ L Toe02
+    400024: DUCK_ L UpperArm
+    400026: DUCK_ Neck
+    400028: DUCK_ Neck1
+    400030: DUCK_ Neck2
+    400032: DUCK_ Neck3
+    400034: DUCK_ Neck4
+    400036: DUCK_ Pelvis
+    400038: DUCK_ Queue de cheval 1
+    400040: DUCK_ R Calf
+    400042: DUCK_ R Clavicle
+    400044: DUCK_ R Foot
+    400046: DUCK_ R Forearm
+    400048: DUCK_ R Hand
+    400050: DUCK_ R HorseLink
+    400052: DUCK_ R Thigh
+    400054: DUCK_ R Toe0
+    400056: DUCK_ R Toe01
+    400058: DUCK_ R Toe02
+    400060: DUCK_ R UpperArm
+    400062: DUCK_ Spine
+    400064: root
+    400066: //RootNode
+    400068: SK_Duck
+    400070: TailL
+    400072: TailR
+    400074: WingLeftA
+    400076: WingLeftB
+    400078: WingLeftC
+    400080: WingLeftD
+    400082: WingLeftE
+    400084: WingLeftF
+    400086: WingLeftG
+    400088: WingLeftH
+    400090: WingRightA
+    400092: WingRightB
+    400094: WingRightC
+    400096: WingRightD
+    400098: WingRightE
+    400100: WingRightF
+    400102: WingRightG
+    400104: WingRightH
+    4300000: SK_Duck
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: SK_Duck
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_duck
+    second: {fileID: 2100000, guid: 67cced15af62fcc449f881c5e13e8b13, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

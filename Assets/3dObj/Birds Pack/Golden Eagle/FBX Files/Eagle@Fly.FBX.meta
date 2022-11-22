@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: b6a4dfede91f18a4a9e29a4c64faa5e2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: EAGLE_
+    100004: EAGLE_ Head
+    100006: EAGLE_ L Calf
+    100008: EAGLE_ L Clavicle
+    100010: EAGLE_ L Foot
+    100012: EAGLE_ L Forearm
+    100014: EAGLE_ L Hand
+    100016: EAGLE_ L HorseLink
+    100018: EAGLE_ L Thigh
+    100020: EAGLE_ L Toe0
+    100022: EAGLE_ L Toe01
+    100024: EAGLE_ L Toe02
+    100026: EAGLE_ L Toe1
+    100028: EAGLE_ L Toe11
+    100030: EAGLE_ L Toe12
+    100032: EAGLE_ L UpperArm
+    100034: EAGLE_ Neck
+    100036: EAGLE_ Neck1
+    100038: EAGLE_ Pelvis
+    100040: EAGLE_ Queue de cheval 1
+    100042: EAGLE_ R Calf
+    100044: EAGLE_ R Clavicle
+    100046: EAGLE_ R Foot
+    100048: EAGLE_ R Forearm
+    100050: EAGLE_ R Hand
+    100052: EAGLE_ R HorseLink
+    100054: EAGLE_ R Thigh
+    100056: EAGLE_ R Toe0
+    100058: EAGLE_ R Toe01
+    100060: EAGLE_ R Toe02
+    100062: EAGLE_ R Toe1
+    100064: EAGLE_ R Toe11
+    100066: EAGLE_ R Toe12
+    100068: EAGLE_ R UpperArm
+    100070: EAGLE_ Spine
+    100072: EAGLE_ Tail
+    100074: Eagle_ TailL
+    100076: Eagle_ TailR
+    100078: Eagle_WingLeftFeathers1
+    100080: Eagle_WingLeftFeathers2
+    100082: Eagle_WingLeftFeathers3
+    100084: Eagle_WingLefttFeathers4
+    100086: Eagle_WingRightFeathers1
+    100088: Eagle_WingRightFeathers2
+    100090: Eagle_WingRightFeathers3
+    100092: Eagle_WingRightFeathers4
+    100094: root
+    400000: //RootNode
+    400002: EAGLE_
+    400004: EAGLE_ Head
+    400006: EAGLE_ L Calf
+    400008: EAGLE_ L Clavicle
+    400010: EAGLE_ L Foot
+    400012: EAGLE_ L Forearm
+    400014: EAGLE_ L Hand
+    400016: EAGLE_ L HorseLink
+    400018: EAGLE_ L Thigh
+    400020: EAGLE_ L Toe0
+    400022: EAGLE_ L Toe01
+    400024: EAGLE_ L Toe02
+    400026: EAGLE_ L Toe1
+    400028: EAGLE_ L Toe11
+    400030: EAGLE_ L Toe12
+    400032: EAGLE_ L UpperArm
+    400034: EAGLE_ Neck
+    400036: EAGLE_ Neck1
+    400038: EAGLE_ Pelvis
+    400040: EAGLE_ Queue de cheval 1
+    400042: EAGLE_ R Calf
+    400044: EAGLE_ R Clavicle
+    400046: EAGLE_ R Foot
+    400048: EAGLE_ R Forearm
+    400050: EAGLE_ R Hand
+    400052: EAGLE_ R HorseLink
+    400054: EAGLE_ R Thigh
+    400056: EAGLE_ R Toe0
+    400058: EAGLE_ R Toe01
+    400060: EAGLE_ R Toe02
+    400062: EAGLE_ R Toe1
+    400064: EAGLE_ R Toe11
+    400066: EAGLE_ R Toe12
+    400068: EAGLE_ R UpperArm
+    400070: EAGLE_ Spine
+    400072: EAGLE_ Tail
+    400074: Eagle_ TailL
+    400076: Eagle_ TailR
+    400078: Eagle_WingLeftFeathers1
+    400080: Eagle_WingLeftFeathers2
+    400082: Eagle_WingLeftFeathers3
+    400084: Eagle_WingLefttFeathers4
+    400086: Eagle_WingRightFeathers1
+    400088: Eagle_WingRightFeathers2
+    400090: Eagle_WingRightFeathers3
+    400092: Eagle_WingRightFeathers4
+    400094: root
+    7400000: Fly
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Fly
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/EAGLE_
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ L Thigh
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ L Thigh/EAGLE_ L Calf
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ L Thigh/EAGLE_ L Calf/EAGLE_ L HorseLink
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ L Thigh/EAGLE_ L Calf/EAGLE_ L HorseLink/EAGLE_
+          L Foot
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ L Thigh/EAGLE_ L Calf/EAGLE_ L HorseLink/EAGLE_
+          L Foot/EAGLE_ L Toe0
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ L Thigh/EAGLE_ L Calf/EAGLE_ L HorseLink/EAGLE_
+          L Foot/EAGLE_ L Toe0/EAGLE_ L Toe01
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ L Thigh/EAGLE_ L Calf/EAGLE_ L HorseLink/EAGLE_
+          L Foot/EAGLE_ L Toe0/EAGLE_ L Toe01/EAGLE_ L Toe02
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ L Thigh/EAGLE_ L Calf/EAGLE_ L HorseLink/EAGLE_
+          L Foot/EAGLE_ L Toe1
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ L Thigh/EAGLE_ L Calf/EAGLE_ L HorseLink/EAGLE_
+          L Foot/EAGLE_ L Toe1/EAGLE_ L Toe11
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ L Thigh/EAGLE_ L Calf/EAGLE_ L HorseLink/EAGLE_
+          L Foot/EAGLE_ L Toe1/EAGLE_ L Toe11/EAGLE_ L Toe12
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ R Thigh
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ R Thigh/EAGLE_ R Calf
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ R Thigh/EAGLE_ R Calf/EAGLE_ R HorseLink
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ R Thigh/EAGLE_ R Calf/EAGLE_ R HorseLink/EAGLE_
+          R Foot
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ R Thigh/EAGLE_ R Calf/EAGLE_ R HorseLink/EAGLE_
+          R Foot/EAGLE_ R Toe0
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ R Thigh/EAGLE_ R Calf/EAGLE_ R HorseLink/EAGLE_
+          R Foot/EAGLE_ R Toe0/EAGLE_ R Toe01
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ R Thigh/EAGLE_ R Calf/EAGLE_ R HorseLink/EAGLE_
+          R Foot/EAGLE_ R Toe0/EAGLE_ R Toe01/EAGLE_ R Toe02
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ R Thigh/EAGLE_ R Calf/EAGLE_ R HorseLink/EAGLE_
+          R Foot/EAGLE_ R Toe1
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ R Thigh/EAGLE_ R Calf/EAGLE_ R HorseLink/EAGLE_
+          R Foot/EAGLE_ R Toe1/EAGLE_ R Toe11
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ R Thigh/EAGLE_ R Calf/EAGLE_ R HorseLink/EAGLE_
+          R Foot/EAGLE_ R Toe1/EAGLE_ R Toe11/EAGLE_ R Toe12
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ Spine
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ Spine/EAGLE_ L Clavicle
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ Spine/EAGLE_ L Clavicle/EAGLE_ L UpperArm
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ Spine/EAGLE_ L Clavicle/EAGLE_ L UpperArm/EAGLE_
+          L Forearm
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ Spine/EAGLE_ L Clavicle/EAGLE_ L UpperArm/EAGLE_
+          L Forearm/EAGLE_ L Hand
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ Spine/EAGLE_ L Clavicle/EAGLE_ L UpperArm/EAGLE_
+          L Forearm/EAGLE_ L Hand/Eagle_WingLeftFeathers1
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ Spine/EAGLE_ L Clavicle/EAGLE_ L UpperArm/EAGLE_
+          L Forearm/EAGLE_ L Hand/Eagle_WingLeftFeathers2
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ Spine/EAGLE_ L Clavicle/EAGLE_ L UpperArm/EAGLE_
+          L Forearm/Eagle_WingLeftFeathers3
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ Spine/EAGLE_ L Clavicle/EAGLE_ L UpperArm/Eagle_WingLefttFeathers4
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ Spine/EAGLE_ Neck
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ Spine/EAGLE_ Neck/EAGLE_ Neck1
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ Spine/EAGLE_ Neck/EAGLE_ Neck1/EAGLE_
+          Head
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ Spine/EAGLE_ Neck/EAGLE_ Neck1/EAGLE_
+          Head/EAGLE_ Queue de cheval 1
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ Spine/EAGLE_ R Clavicle
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ Spine/EAGLE_ R Clavicle/EAGLE_ R UpperArm
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ Spine/EAGLE_ R Clavicle/EAGLE_ R UpperArm/EAGLE_
+          R Forearm
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ Spine/EAGLE_ R Clavicle/EAGLE_ R UpperArm/EAGLE_
+          R Forearm/EAGLE_ R Hand
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ Spine/EAGLE_ R Clavicle/EAGLE_ R UpperArm/EAGLE_
+          R Forearm/EAGLE_ R Hand/Eagle_WingRightFeathers1
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ Spine/EAGLE_ R Clavicle/EAGLE_ R UpperArm/EAGLE_
+          R Forearm/EAGLE_ R Hand/Eagle_WingRightFeathers2
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ Spine/EAGLE_ R Clavicle/EAGLE_ R UpperArm/EAGLE_
+          R Forearm/Eagle_WingRightFeathers3
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ Spine/EAGLE_ R Clavicle/EAGLE_ R UpperArm/Eagle_WingRightFeathers4
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/EAGLE_ Tail
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/Eagle_ TailL
+        weight: 1
+      - path: root/EAGLE_/EAGLE_ Pelvis/Eagle_ TailR
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 224b5739c6ec161499c4334dc7306875,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,375 @@
+fileFormatVersion: 2
+guid: f6ce817cf8b208b4f87aa1a3813eea6a
+timeCreated: 1509662864
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CROW_
+    100004: CROW_ Head
+    100006: CROW_ L Calf
+    100008: CROW_ L Clavicle
+    100010: CROW_ L Foot
+    100012: CROW_ L Forearm
+    100014: CROW_ L Hand
+    100016: CROW_ L HorseLink
+    100018: CROW_ L Thigh
+    100020: CROW_ L Toe0
+    100022: CROW_ L Toe01
+    100024: CROW_ L Toe02
+    100026: CROW_ L Toe1
+    100028: CROW_ L Toe11
+    100030: CROW_ L Toe12
+    100032: CROW_ L UpperArm
+    100034: CROW_ Neck
+    100036: CROW_ Pelvis
+    100038: CROW_ Queue de cheval 1
+    100040: CROW_ R Calf
+    100042: CROW_ R Clavicle
+    100044: CROW_ R Foot
+    100046: CROW_ R Forearm
+    100048: CROW_ R Hand
+    100050: CROW_ R HorseLink
+    100052: CROW_ R Thigh
+    100054: CROW_ R Toe0
+    100056: CROW_ R Toe01
+    100058: CROW_ R Toe02
+    100060: CROW_ R Toe1
+    100062: CROW_ R Toe11
+    100064: CROW_ R Toe12
+    100066: CROW_ R UpperArm
+    100068: CROW_ Spine
+    100070: CrowTailLeftFeatherA
+    100072: CrowTailLeftFeatherB
+    100074: CrowTailLeftFeatherC
+    100076: CrowTailLeftFeatherD
+    100078: CrowTailLeftFeatherE
+    100080: CrowTailRightFeatherA
+    100082: CrowTailRightFeatherB
+    100084: CrowTailRightFeatherC
+    100086: CrowTailRightFeatherD
+    100088: CrowTailRightFeatherE
+    100090: root
+    100092: WingLeftA
+    100094: WingLeftB
+    100096: WingLeftC
+    100098: WingLeftD
+    100100: WingLeftE
+    100102: WingLeftF
+    100104: WingLeftG
+    100106: WingLeftH
+    100108: WingRightA
+    100110: WingRightB
+    100112: WingRightC
+    100114: WingRightD
+    100116: WingRightE
+    100118: WingRightF
+    100120: WingRightG
+    100122: WingRightH
+    400000: //RootNode
+    400002: CROW_
+    400004: CROW_ Head
+    400006: CROW_ L Calf
+    400008: CROW_ L Clavicle
+    400010: CROW_ L Foot
+    400012: CROW_ L Forearm
+    400014: CROW_ L Hand
+    400016: CROW_ L HorseLink
+    400018: CROW_ L Thigh
+    400020: CROW_ L Toe0
+    400022: CROW_ L Toe01
+    400024: CROW_ L Toe02
+    400026: CROW_ L Toe1
+    400028: CROW_ L Toe11
+    400030: CROW_ L Toe12
+    400032: CROW_ L UpperArm
+    400034: CROW_ Neck
+    400036: CROW_ Pelvis
+    400038: CROW_ Queue de cheval 1
+    400040: CROW_ R Calf
+    400042: CROW_ R Clavicle
+    400044: CROW_ R Foot
+    400046: CROW_ R Forearm
+    400048: CROW_ R Hand
+    400050: CROW_ R HorseLink
+    400052: CROW_ R Thigh
+    400054: CROW_ R Toe0
+    400056: CROW_ R Toe01
+    400058: CROW_ R Toe02
+    400060: CROW_ R Toe1
+    400062: CROW_ R Toe11
+    400064: CROW_ R Toe12
+    400066: CROW_ R UpperArm
+    400068: CROW_ Spine
+    400070: CrowTailLeftFeatherA
+    400072: CrowTailLeftFeatherB
+    400074: CrowTailLeftFeatherC
+    400076: CrowTailLeftFeatherD
+    400078: CrowTailLeftFeatherE
+    400080: CrowTailRightFeatherA
+    400082: CrowTailRightFeatherB
+    400084: CrowTailRightFeatherC
+    400086: CrowTailRightFeatherD
+    400088: CrowTailRightFeatherE
+    400090: root
+    400092: WingLeftA
+    400094: WingLeftB
+    400096: WingLeftC
+    400098: WingLeftD
+    400100: WingLeftE
+    400102: WingLeftF
+    400104: WingLeftG
+    400106: WingLeftH
+    400108: WingRightA
+    400110: WingRightB
+    400112: WingRightC
+    400114: WingRightD
+    400116: WingRightE
+    400118: WingRightF
+    400120: WingRightG
+    400122: WingRightH
+    7400000: IdleStretchWings
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: IdleStretchWings
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/CROW_
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ L Thigh
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ L Thigh/CROW_ L Calf
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ L Thigh/CROW_ L Calf/CROW_ L HorseLink
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ L Thigh/CROW_ L Calf/CROW_ L HorseLink/CROW_
+          L Foot
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ L Thigh/CROW_ L Calf/CROW_ L HorseLink/CROW_
+          L Foot/CROW_ L Toe0
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ L Thigh/CROW_ L Calf/CROW_ L HorseLink/CROW_
+          L Foot/CROW_ L Toe0/CROW_ L Toe01
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ L Thigh/CROW_ L Calf/CROW_ L HorseLink/CROW_
+          L Foot/CROW_ L Toe0/CROW_ L Toe01/CROW_ L Toe02
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ L Thigh/CROW_ L Calf/CROW_ L HorseLink/CROW_
+          L Foot/CROW_ L Toe1
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ L Thigh/CROW_ L Calf/CROW_ L HorseLink/CROW_
+          L Foot/CROW_ L Toe1/CROW_ L Toe11
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ L Thigh/CROW_ L Calf/CROW_ L HorseLink/CROW_
+          L Foot/CROW_ L Toe1/CROW_ L Toe11/CROW_ L Toe12
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ R Thigh
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ R Thigh/CROW_ R Calf
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ R Thigh/CROW_ R Calf/CROW_ R HorseLink
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ R Thigh/CROW_ R Calf/CROW_ R HorseLink/CROW_
+          R Foot
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ R Thigh/CROW_ R Calf/CROW_ R HorseLink/CROW_
+          R Foot/CROW_ R Toe0
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ R Thigh/CROW_ R Calf/CROW_ R HorseLink/CROW_
+          R Foot/CROW_ R Toe0/CROW_ R Toe01
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ R Thigh/CROW_ R Calf/CROW_ R HorseLink/CROW_
+          R Foot/CROW_ R Toe0/CROW_ R Toe01/CROW_ R Toe02
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ R Thigh/CROW_ R Calf/CROW_ R HorseLink/CROW_
+          R Foot/CROW_ R Toe1
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ R Thigh/CROW_ R Calf/CROW_ R HorseLink/CROW_
+          R Foot/CROW_ R Toe1/CROW_ R Toe11
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ R Thigh/CROW_ R Calf/CROW_ R HorseLink/CROW_
+          R Foot/CROW_ R Toe1/CROW_ R Toe11/CROW_ R Toe12
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ L Clavicle
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ L Clavicle/CROW_ L UpperArm
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ L Clavicle/CROW_ L UpperArm/CROW_
+          L Forearm
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ L Clavicle/CROW_ L UpperArm/CROW_
+          L Forearm/CROW_ L Hand
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ L Clavicle/CROW_ L UpperArm/CROW_
+          L Forearm/CROW_ L Hand/WingLeftC
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ L Clavicle/CROW_ L UpperArm/CROW_
+          L Forearm/CROW_ L Hand/WingLeftG
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ L Clavicle/CROW_ L UpperArm/CROW_
+          L Forearm/CROW_ L Hand/WingLeftH
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ L Clavicle/CROW_ L UpperArm/CROW_
+          L Forearm/WingLeftB
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ L Clavicle/CROW_ L UpperArm/CROW_
+          L Forearm/WingLeftF
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ L Clavicle/CROW_ L UpperArm/WingLeftA
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ L Clavicle/CROW_ L UpperArm/WingLeftD
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ L Clavicle/CROW_ L UpperArm/WingLeftE
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ Neck
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ Neck/CROW_ Head
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ Neck/CROW_ Head/CROW_ Queue
+          de cheval 1
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ R Clavicle
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ R Clavicle/CROW_ R UpperArm
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ R Clavicle/CROW_ R UpperArm/CROW_
+          R Forearm
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ R Clavicle/CROW_ R UpperArm/CROW_
+          R Forearm/CROW_ R Hand
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ R Clavicle/CROW_ R UpperArm/CROW_
+          R Forearm/CROW_ R Hand/WingRightC
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ R Clavicle/CROW_ R UpperArm/CROW_
+          R Forearm/CROW_ R Hand/WingRightG
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ R Clavicle/CROW_ R UpperArm/CROW_
+          R Forearm/CROW_ R Hand/WingRightH
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ R Clavicle/CROW_ R UpperArm/CROW_
+          R Forearm/WingRightB
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ R Clavicle/CROW_ R UpperArm/CROW_
+          R Forearm/WingRightF
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ R Clavicle/CROW_ R UpperArm/WingRightA
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ R Clavicle/CROW_ R UpperArm/WingRightD
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CROW_ Spine/CROW_ R Clavicle/CROW_ R UpperArm/WingRightE
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CrowTailLeftFeatherA
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CrowTailLeftFeatherB
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CrowTailLeftFeatherC
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CrowTailLeftFeatherD
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CrowTailLeftFeatherE
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CrowTailRightFeatherA
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CrowTailRightFeatherB
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CrowTailRightFeatherC
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CrowTailRightFeatherD
+        weight: 1
+      - path: root/CROW_/CROW_ Pelvis/CrowTailRightFeatherE
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: root
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 5428393b2c607f946ba4461290e0c834,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

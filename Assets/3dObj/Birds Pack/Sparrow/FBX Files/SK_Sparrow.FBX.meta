@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: ae583a7dbf7e92e458e08ee15ca33b69
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: root
+    100002: //RootNode
+    100004: SK_Sparrow
+    100006: SPARROW_
+    100008: SPARROW_ Head
+    100010: SPARROW_ HeadNub
+    100012: SPARROW_ L Calf
+    100014: SPARROW_ L Clavicle
+    100016: SPARROW_ L Foot
+    100018: SPARROW_ L Forearm
+    100020: SPARROW_ L Hand
+    100022: SPARROW_ L HorseLink
+    100024: SPARROW_ L Thigh
+    100026: SPARROW_ L Toe0
+    100028: SPARROW_ L Toe01
+    100030: SPARROW_ L Toe02
+    100032: SPARROW_ L Toe0Nub
+    100034: SPARROW_ L Toe1
+    100036: SPARROW_ L Toe11
+    100038: SPARROW_ L Toe12
+    100040: SPARROW_ L Toe1Nub
+    100042: SPARROW_ L UpperArm
+    100044: SPARROW_ Neck
+    100046: SPARROW_ Pelvis
+    100048: SPARROW_ Queue de cheval 1
+    100050: SPARROW_ Queue de cheval 1Nub
+    100052: SPARROW_ R Calf
+    100054: SPARROW_ R Clavicle
+    100056: SPARROW_ R Foot
+    100058: SPARROW_ R Forearm
+    100060: SPARROW_ R Hand
+    100062: SPARROW_ R HorseLink
+    100064: SPARROW_ R Thigh
+    100066: SPARROW_ R Toe0
+    100068: SPARROW_ R Toe01
+    100070: SPARROW_ R Toe02
+    100072: SPARROW_ R Toe0Nub
+    100074: SPARROW_ R Toe1
+    100076: SPARROW_ R Toe11
+    100078: SPARROW_ R Toe12
+    100080: SPARROW_ R Toe1Nub
+    100082: SPARROW_ R UpperArm
+    100084: SPARROW_ Spine
+    100086: SPARROW_ Tail
+    100088: SPARROW_ TailL
+    100090: SPARROW_ TailNub
+    100092: SPARROW_ TailR
+    100094: WingRightFeatherA
+    100096: WingRightFeatherA 1
+    100098: WingRightFeatherB
+    100100: WingRightFeatherB 1
+    100102: WingRightFeatherC
+    100104: WingRightFeatherC 1
+    100106: WingRightFeatherD
+    100108: WingRightFeatherD 1
+    100110: WingLeftFeatherA
+    100112: WingLeftFeatherB
+    100114: WingLeftFeatherC
+    100116: WingLeftFeatherD
+    400000: root
+    400002: //RootNode
+    400004: SK_Sparrow
+    400006: SPARROW_
+    400008: SPARROW_ Head
+    400010: SPARROW_ HeadNub
+    400012: SPARROW_ L Calf
+    400014: SPARROW_ L Clavicle
+    400016: SPARROW_ L Foot
+    400018: SPARROW_ L Forearm
+    400020: SPARROW_ L Hand
+    400022: SPARROW_ L HorseLink
+    400024: SPARROW_ L Thigh
+    400026: SPARROW_ L Toe0
+    400028: SPARROW_ L Toe01
+    400030: SPARROW_ L Toe02
+    400032: SPARROW_ L Toe0Nub
+    400034: SPARROW_ L Toe1
+    400036: SPARROW_ L Toe11
+    400038: SPARROW_ L Toe12
+    400040: SPARROW_ L Toe1Nub
+    400042: SPARROW_ L UpperArm
+    400044: SPARROW_ Neck
+    400046: SPARROW_ Pelvis
+    400048: SPARROW_ Queue de cheval 1
+    400050: SPARROW_ Queue de cheval 1Nub
+    400052: SPARROW_ R Calf
+    400054: SPARROW_ R Clavicle
+    400056: SPARROW_ R Foot
+    400058: SPARROW_ R Forearm
+    400060: SPARROW_ R Hand
+    400062: SPARROW_ R HorseLink
+    400064: SPARROW_ R Thigh
+    400066: SPARROW_ R Toe0
+    400068: SPARROW_ R Toe01
+    400070: SPARROW_ R Toe02
+    400072: SPARROW_ R Toe0Nub
+    400074: SPARROW_ R Toe1
+    400076: SPARROW_ R Toe11
+    400078: SPARROW_ R Toe12
+    400080: SPARROW_ R Toe1Nub
+    400082: SPARROW_ R UpperArm
+    400084: SPARROW_ Spine
+    400086: SPARROW_ Tail
+    400088: SPARROW_ TailL
+    400090: SPARROW_ TailNub
+    400092: SPARROW_ TailR
+    400094: WingRightFeatherA
+    400096: WingRightFeatherA 1
+    400098: WingRightFeatherB
+    400100: WingRightFeatherB 1
+    400102: WingRightFeatherC
+    400104: WingRightFeatherC 1
+    400106: WingRightFeatherD
+    400108: WingRightFeatherD 1
+    400110: WingLeftFeatherA
+    400112: WingLeftFeatherB
+    400114: WingLeftFeatherC
+    400116: WingLeftFeatherD
+    4300000: SK_Sparrow
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: SK_Sparrow
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Sparrow
+    second: {fileID: 2100000, guid: e30230e88ac474a41a68bf9d471a5cc8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: c37656155a54bf540a0bd1addab38208
+timeCreated: 1510931122
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: PIGEON_
+    100004: PIGEON_ Head
+    100006: PIGEON_ L Calf
+    100008: PIGEON_ L Clavicle
+    100010: PIGEON_ L Foot
+    100012: PIGEON_ L Forearm
+    100014: PIGEON_ L Hand
+    100016: PIGEON_ L HorseLink
+    100018: PIGEON_ L Thigh
+    100020: PIGEON_ L Toe0
+    100022: PIGEON_ L Toe01
+    100024: PIGEON_ L Toe02
+    100026: PIGEON_ L Toe1
+    100028: PIGEON_ L Toe11
+    100030: PIGEON_ L Toe12
+    100032: PIGEON_ L UpperArm
+    100034: PIGEON_ Neck
+    100036: PIGEON_ Pelvis
+    100038: PIGEON_ Queue de cheval 1
+    100040: PIGEON_ R Calf
+    100042: PIGEON_ R Clavicle
+    100044: PIGEON_ R Foot
+    100046: PIGEON_ R Forearm
+    100048: PIGEON_ R Hand
+    100050: PIGEON_ R HorseLink
+    100052: PIGEON_ R Thigh
+    100054: PIGEON_ R Toe0
+    100056: PIGEON_ R Toe01
+    100058: PIGEON_ R Toe02
+    100060: PIGEON_ R Toe1
+    100062: PIGEON_ R Toe11
+    100064: PIGEON_ R Toe12
+    100066: PIGEON_ R UpperArm
+    100068: PIGEON_ Spine
+    100070: root
+    100072: TailLeftFeatherA
+    100074: TailRightFeatherA
+    100076: WingLeftC
+    100078: WingLeftD
+    100080: WingLeftE
+    100082: WingLeftF
+    100084: WingRightC
+    100086: WingRightD
+    100088: WingRightE
+    100090: WingRightF
+    400000: //RootNode
+    400002: PIGEON_
+    400004: PIGEON_ Head
+    400006: PIGEON_ L Calf
+    400008: PIGEON_ L Clavicle
+    400010: PIGEON_ L Foot
+    400012: PIGEON_ L Forearm
+    400014: PIGEON_ L Hand
+    400016: PIGEON_ L HorseLink
+    400018: PIGEON_ L Thigh
+    400020: PIGEON_ L Toe0
+    400022: PIGEON_ L Toe01
+    400024: PIGEON_ L Toe02
+    400026: PIGEON_ L Toe1
+    400028: PIGEON_ L Toe11
+    400030: PIGEON_ L Toe12
+    400032: PIGEON_ L UpperArm
+    400034: PIGEON_ Neck
+    400036: PIGEON_ Pelvis
+    400038: PIGEON_ Queue de cheval 1
+    400040: PIGEON_ R Calf
+    400042: PIGEON_ R Clavicle
+    400044: PIGEON_ R Foot
+    400046: PIGEON_ R Forearm
+    400048: PIGEON_ R Hand
+    400050: PIGEON_ R HorseLink
+    400052: PIGEON_ R Thigh
+    400054: PIGEON_ R Toe0
+    400056: PIGEON_ R Toe01
+    400058: PIGEON_ R Toe02
+    400060: PIGEON_ R Toe1
+    400062: PIGEON_ R Toe11
+    400064: PIGEON_ R Toe12
+    400066: PIGEON_ R UpperArm
+    400068: PIGEON_ Spine
+    400070: root
+    400072: TailLeftFeatherA
+    400074: TailRightFeatherA
+    400076: WingLeftC
+    400078: WingLeftD
+    400080: WingLeftE
+    400082: WingLeftF
+    400084: WingRightC
+    400086: WingRightD
+    400088: WingRightE
+    400090: WingRightF
+    7400000: DeathGrounded
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: DeathGrounded
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/PIGEON_
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ L Thigh
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ L Thigh/PIGEON_ L Calf
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ L Thigh/PIGEON_ L Calf/PIGEON_ L
+          HorseLink
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ L Thigh/PIGEON_ L Calf/PIGEON_ L
+          HorseLink/PIGEON_ L Foot
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ L Thigh/PIGEON_ L Calf/PIGEON_ L
+          HorseLink/PIGEON_ L Foot/PIGEON_ L Toe0
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ L Thigh/PIGEON_ L Calf/PIGEON_ L
+          HorseLink/PIGEON_ L Foot/PIGEON_ L Toe0/PIGEON_ L Toe01
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ L Thigh/PIGEON_ L Calf/PIGEON_ L
+          HorseLink/PIGEON_ L Foot/PIGEON_ L Toe0/PIGEON_ L Toe01/PIGEON_ L Toe02
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ L Thigh/PIGEON_ L Calf/PIGEON_ L
+          HorseLink/PIGEON_ L Foot/PIGEON_ L Toe1
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ L Thigh/PIGEON_ L Calf/PIGEON_ L
+          HorseLink/PIGEON_ L Foot/PIGEON_ L Toe1/PIGEON_ L Toe11
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ L Thigh/PIGEON_ L Calf/PIGEON_ L
+          HorseLink/PIGEON_ L Foot/PIGEON_ L Toe1/PIGEON_ L Toe11/PIGEON_ L Toe12
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ R Thigh
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ R Thigh/PIGEON_ R Calf
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ R Thigh/PIGEON_ R Calf/PIGEON_ R
+          HorseLink
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ R Thigh/PIGEON_ R Calf/PIGEON_ R
+          HorseLink/PIGEON_ R Foot
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ R Thigh/PIGEON_ R Calf/PIGEON_ R
+          HorseLink/PIGEON_ R Foot/PIGEON_ R Toe0
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ R Thigh/PIGEON_ R Calf/PIGEON_ R
+          HorseLink/PIGEON_ R Foot/PIGEON_ R Toe0/PIGEON_ R Toe01
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ R Thigh/PIGEON_ R Calf/PIGEON_ R
+          HorseLink/PIGEON_ R Foot/PIGEON_ R Toe0/PIGEON_ R Toe01/PIGEON_ R Toe02
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ R Thigh/PIGEON_ R Calf/PIGEON_ R
+          HorseLink/PIGEON_ R Foot/PIGEON_ R Toe1
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ R Thigh/PIGEON_ R Calf/PIGEON_ R
+          HorseLink/PIGEON_ R Foot/PIGEON_ R Toe1/PIGEON_ R Toe11
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ R Thigh/PIGEON_ R Calf/PIGEON_ R
+          HorseLink/PIGEON_ R Foot/PIGEON_ R Toe1/PIGEON_ R Toe11/PIGEON_ R Toe12
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ Spine
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ Spine/PIGEON_ L Clavicle
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ Spine/PIGEON_ L Clavicle/PIGEON_
+          L UpperArm
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ Spine/PIGEON_ L Clavicle/PIGEON_
+          L UpperArm/PIGEON_ L Forearm
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ Spine/PIGEON_ L Clavicle/PIGEON_
+          L UpperArm/PIGEON_ L Forearm/PIGEON_ L Hand
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ Spine/PIGEON_ L Clavicle/PIGEON_
+          L UpperArm/PIGEON_ L Forearm/PIGEON_ L Hand/WingLeftF
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ Spine/PIGEON_ L Clavicle/PIGEON_
+          L UpperArm/PIGEON_ L Forearm/WingLeftE
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ Spine/PIGEON_ L Clavicle/PIGEON_
+          L UpperArm/WingLeftC
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ Spine/PIGEON_ L Clavicle/PIGEON_
+          L UpperArm/WingLeftD
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ Spine/PIGEON_ Neck
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ Spine/PIGEON_ Neck/PIGEON_ Head
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ Spine/PIGEON_ Neck/PIGEON_ Head/PIGEON_
+          Queue de cheval 1
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ Spine/PIGEON_ R Clavicle
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ Spine/PIGEON_ R Clavicle/PIGEON_
+          R UpperArm
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ Spine/PIGEON_ R Clavicle/PIGEON_
+          R UpperArm/PIGEON_ R Forearm
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ Spine/PIGEON_ R Clavicle/PIGEON_
+          R UpperArm/PIGEON_ R Forearm/PIGEON_ R Hand
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ Spine/PIGEON_ R Clavicle/PIGEON_
+          R UpperArm/PIGEON_ R Forearm/PIGEON_ R Hand/WingRightF
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ Spine/PIGEON_ R Clavicle/PIGEON_
+          R UpperArm/PIGEON_ R Forearm/WingRightE
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ Spine/PIGEON_ R Clavicle/PIGEON_
+          R UpperArm/WingRightC
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/PIGEON_ Spine/PIGEON_ R Clavicle/PIGEON_
+          R UpperArm/WingRightD
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/TailLeftFeatherA
+        weight: 1
+      - path: root/PIGEON_/PIGEON_ Pelvis/TailRightFeatherA
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: root
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: e3caa5f7fe5010148834c239555d45ae,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

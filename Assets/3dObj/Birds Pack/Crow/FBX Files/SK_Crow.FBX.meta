@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 5428393b2c607f946ba4461290e0c834
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: CROW_
+    100002: CROW_ Head
+    100004: CROW_ L Calf
+    100006: CROW_ L Clavicle
+    100008: CROW_ L Foot
+    100010: CROW_ L Forearm
+    100012: CROW_ L Hand
+    100014: CROW_ L HorseLink
+    100016: CROW_ L Thigh
+    100018: CROW_ L Toe0
+    100020: CROW_ L Toe01
+    100022: CROW_ L Toe02
+    100024: CROW_ L Toe1
+    100026: CROW_ L Toe11
+    100028: CROW_ L Toe12
+    100030: CROW_ L UpperArm
+    100032: CROW_ Neck
+    100034: CROW_ Pelvis
+    100036: CROW_ Queue de cheval 1
+    100038: CROW_ R Calf
+    100040: CROW_ R Clavicle
+    100042: CROW_ R Foot
+    100044: CROW_ R Forearm
+    100046: CROW_ R Hand
+    100048: CROW_ R HorseLink
+    100050: CROW_ R Thigh
+    100052: CROW_ R Toe0
+    100054: CROW_ R Toe01
+    100056: CROW_ R Toe02
+    100058: CROW_ R Toe1
+    100060: CROW_ R Toe11
+    100062: CROW_ R Toe12
+    100064: CROW_ R UpperArm
+    100066: CROW_ Spine
+    100068: CrowTailLeftFeatherA
+    100070: CrowTailLeftFeatherB
+    100072: CrowTailLeftFeatherC
+    100074: CrowTailLeftFeatherD
+    100076: CrowTailLeftFeatherE
+    100078: CrowTailRightFeatherA
+    100080: CrowTailRightFeatherB
+    100082: CrowTailRightFeatherC
+    100084: CrowTailRightFeatherD
+    100086: CrowTailRightFeatherE
+    100088: root
+    100090: //RootNode
+    100092: SK_Crow
+    100094: WingLeftA
+    100096: WingLeftB
+    100098: WingLeftC
+    100100: WingLeftD
+    100102: WingLeftE
+    100104: WingLeftF
+    100106: WingLeftG
+    100108: WingLeftH
+    100110: WingRightA
+    100112: WingRightB
+    100114: WingRightC
+    100116: WingRightD
+    100118: WingRightE
+    100120: WingRightF
+    100122: WingRightG
+    100124: WingRightH
+    400000: CROW_
+    400002: CROW_ Head
+    400004: CROW_ L Calf
+    400006: CROW_ L Clavicle
+    400008: CROW_ L Foot
+    400010: CROW_ L Forearm
+    400012: CROW_ L Hand
+    400014: CROW_ L HorseLink
+    400016: CROW_ L Thigh
+    400018: CROW_ L Toe0
+    400020: CROW_ L Toe01
+    400022: CROW_ L Toe02
+    400024: CROW_ L Toe1
+    400026: CROW_ L Toe11
+    400028: CROW_ L Toe12
+    400030: CROW_ L UpperArm
+    400032: CROW_ Neck
+    400034: CROW_ Pelvis
+    400036: CROW_ Queue de cheval 1
+    400038: CROW_ R Calf
+    400040: CROW_ R Clavicle
+    400042: CROW_ R Foot
+    400044: CROW_ R Forearm
+    400046: CROW_ R Hand
+    400048: CROW_ R HorseLink
+    400050: CROW_ R Thigh
+    400052: CROW_ R Toe0
+    400054: CROW_ R Toe01
+    400056: CROW_ R Toe02
+    400058: CROW_ R Toe1
+    400060: CROW_ R Toe11
+    400062: CROW_ R Toe12
+    400064: CROW_ R UpperArm
+    400066: CROW_ Spine
+    400068: CrowTailLeftFeatherA
+    400070: CrowTailLeftFeatherB
+    400072: CrowTailLeftFeatherC
+    400074: CrowTailLeftFeatherD
+    400076: CrowTailLeftFeatherE
+    400078: CrowTailRightFeatherA
+    400080: CrowTailRightFeatherB
+    400082: CrowTailRightFeatherC
+    400084: CrowTailRightFeatherD
+    400086: CrowTailRightFeatherE
+    400088: root
+    400090: //RootNode
+    400092: SK_Crow
+    400094: WingLeftA
+    400096: WingLeftB
+    400098: WingLeftC
+    400100: WingLeftD
+    400102: WingLeftE
+    400104: WingLeftF
+    400106: WingLeftG
+    400108: WingLeftH
+    400110: WingRightA
+    400112: WingRightB
+    400114: WingRightC
+    400116: WingRightD
+    400118: WingRightE
+    400120: WingRightF
+    400122: WingRightG
+    400124: WingRightH
+    4300000: SK_Crow
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: SK_Crow
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Crow
+    second: {fileID: 2100000, guid: cfab047d18b462244a8d89b72adf09bc, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
