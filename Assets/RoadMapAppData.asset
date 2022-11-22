@@ -15,4 +15,8 @@ MonoBehaviour:
   identifier: Data
   groupID: bn1afKk2sZxYax
   _buildKey: 00001
-  placables: []
+  placables:
+  - identifier: SK_Bear
+    prefab: {fileID: 7978929271854893780, guid: 4e826f470cc06f44c84f6d6f7f81e9ef, type: 3}
+  - identifier: SK_Fox
+    prefab: {fileID: 2092471655630553566, guid: afd5bd23f6283974c916aeebacb45f38, type: 3}
