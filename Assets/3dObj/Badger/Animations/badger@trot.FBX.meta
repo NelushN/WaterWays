@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: 1507c47b458960141b46541c7caa3a84
+timeCreated: 1501843304
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: badger_COM_ctrl
+    100004: badger_Head_bone
+    100006: badger_Head_ctrl
+    100008: badger_Hip_ctrl
+    100010: badger_Jaw-nub_bone
+    100012: badger_Jaw_bone
+    100014: badger_Jaw_ctrl
+    100016: badger_l_Ankle_bone
+    100018: badger_l_ball_IKGoal
+    100020: badger_l_claw_IKGoal
+    100022: badger_l_ClawLift_hlp
+    100024: badger_l_ClawTap_hlp
+    100026: badger_l_Ear-nub_bone
+    100028: badger_l_Ear_bone
+    100030: badger_l_Ear_ctrl
+    100032: badger_l_Foot_ctrl
+    100034: badger_l_Heel_hlp
+    100036: badger_l_heel_IKGoal
+    100038: badger_l_HeelPeel_hlp
+    100040: badger_l_Humerus_bone
+    100042: badger_l_Knee_bone
+    100044: badger_l_LowEyelid-nub_bone
+    100046: badger_l_LowEyelid_bone
+    100048: badger_l_LowEyelid_ctrl
+    100050: badger_l_Metacarpus_bone
+    100052: badger_l_Paw-nub_bone
+    100054: badger_l_Paw_bone
+    100056: badger_l_Paw_ctrl
+    100058: badger_l_pivot_IKGoal
+    100060: badger_l_Radius_bone
+    100062: badger_l_Scapula_bone
+    100064: badger_l_Scapula_ctrl
+    100066: badger_l_Scapula_ctrl 1
+    100068: badger_l_Thigh_bone
+    100070: badger_l_Toe-nub_bone
+    100072: badger_l_Toe_bone
+    100074: badger_l_toe_IKGoal
+    100076: badger_l_ToeLift_hlp
+    100078: badger_l_ToeTap_hlp
+    100080: badger_l_UpEyelid-nub_bone
+    100082: badger_l_UpEyelid_bone
+    100084: badger_l_UpEyelid_ctrl
+    100086: badger_l_Wrist_hlp
+    100088: badger_l_wrist_IKGoal
+    100090: badger_l_WristPeel_hlp
+    100092: badger_Main_ctrl
+    100094: badger_Mandible_bone
+    100096: badger_Mandible_ctrl
+    100098: Badger_mesh
+    100100: badger_Neck_bone
+    100102: badger_Neck_ctrl
+    100104: badger_Pelvis_bone
+    100106: badger_r_Ankle_bone
+    100108: badger_r_ball_IKGoal
+    100110: badger_r_claw_IKGoal
+    100112: badger_r_ClawLift_hlp
+    100114: badger_r_ClawTap_hlp
+    100116: badger_r_Ear-nub_bone
+    100118: badger_r_Ear_bone
+    100120: badger_r_Ear_ctrl
+    100122: badger_r_Foot_ctrl
+    100124: badger_r_Heel_hlp
+    100126: badger_r_heel_IKGoal
+    100128: badger_r_HeelPeel_hlp
+    100130: badger_r_Humerus_bone
+    100132: badger_r_Knee_bone
+    100134: badger_r_LowEyelid-nub_bone
+    100136: badger_r_LowEyelid_bone
+    100138: badger_r_LowEyelid_ctrl
+    100140: badger_r_Metacarpus_bone
+    100142: badger_r_Paw-nub_bone
+    100144: badger_r_Paw_bone
+    100146: badger_r_Paw_ctrl
+    100148: badger_r_pivot_IKGoal
+    100150: badger_r_Radius_bone
+    100152: badger_r_Scapula_ctrl
+    100154: badger_r_Thigh_bone
+    100156: badger_r_Toe-nub_bone
+    100158: badger_r_Toe_bone
+    100160: badger_r_toe_IKGoal
+    100162: badger_r_ToeLift_hlp
+    100164: badger_r_ToeTap_hlp
+    100166: badger_r_UpEyelid-nub_bone
+    100168: badger_r_UpEyelid_bone
+    100170: badger_r_UpEyelid_ctrl
+    100172: badger_r_wrist_IKGoal
+    100174: badger_r_WristPeel_hlp
+    100176: badger_r_WristPeel_hlp001
+    100178: badger_Snout-nub_bone
+    100180: badger_Snout_bone
+    100182: badger_Snout_ctrl
+    100184: badger_Spine1_bone
+    100186: badger_Spine2_bone
+    100188: badger_Spine3_bone
+    100190: badger_Spine_ctrl
+    100192: badger_SpineBase_ctrl
+    100194: badger_Tail1_bone
+    100196: badger_Tail1_ctrl
+    100198: badger_Tail2_bone
+    100200: badger_Tail2_ctrl
+    100202: badger_Tail3_bone
+    100204: badger_Tail3_ctrl
+    100206: badger_Tail4_bone
+    100208: badger_Tail4_ctrl
+    100210: badger_Tail5_bone
+    100212: badger_Tail5_ctrl
+    100214: badger_Tail6-nub_bone
+    100216: badger_Tail6_bone
+    100218: badger_Tail6_ctrl
+    100220: Teeth_mesh
+    400000: //RootNode
+    400002: badger_COM_ctrl
+    400004: badger_Head_bone
+    400006: badger_Head_ctrl
+    400008: badger_Hip_ctrl
+    400010: badger_Jaw-nub_bone
+    400012: badger_Jaw_bone
+    400014: badger_Jaw_ctrl
+    400016: badger_l_Ankle_bone
+    400018: badger_l_ball_IKGoal
+    400020: badger_l_claw_IKGoal
+    400022: badger_l_ClawLift_hlp
+    400024: badger_l_ClawTap_hlp
+    400026: badger_l_Ear-nub_bone
+    400028: badger_l_Ear_bone
+    400030: badger_l_Ear_ctrl
+    400032: badger_l_Foot_ctrl
+    400034: badger_l_Heel_hlp
+    400036: badger_l_heel_IKGoal
+    400038: badger_l_HeelPeel_hlp
+    400040: badger_l_Humerus_bone
+    400042: badger_l_Knee_bone
+    400044: badger_l_LowEyelid-nub_bone
+    400046: badger_l_LowEyelid_bone
+    400048: badger_l_LowEyelid_ctrl
+    400050: badger_l_Metacarpus_bone
+    400052: badger_l_Paw-nub_bone
+    400054: badger_l_Paw_bone
+    400056: badger_l_Paw_ctrl
+    400058: badger_l_pivot_IKGoal
+    400060: badger_l_Radius_bone
+    400062: badger_l_Scapula_bone
+    400064: badger_l_Scapula_ctrl
+    400066: badger_l_Scapula_ctrl 1
+    400068: badger_l_Thigh_bone
+    400070: badger_l_Toe-nub_bone
+    400072: badger_l_Toe_bone
+    400074: badger_l_toe_IKGoal
+    400076: badger_l_ToeLift_hlp
+    400078: badger_l_ToeTap_hlp
+    400080: badger_l_UpEyelid-nub_bone
+    400082: badger_l_UpEyelid_bone
+    400084: badger_l_UpEyelid_ctrl
+    400086: badger_l_Wrist_hlp
+    400088: badger_l_wrist_IKGoal
+    400090: badger_l_WristPeel_hlp
+    400092: badger_Main_ctrl
+    400094: badger_Mandible_bone
+    400096: badger_Mandible_ctrl
+    400098: Badger_mesh
+    400100: badger_Neck_bone
+    400102: badger_Neck_ctrl
+    400104: badger_Pelvis_bone
+    400106: badger_r_Ankle_bone
+    400108: badger_r_ball_IKGoal
+    400110: badger_r_claw_IKGoal
+    400112: badger_r_ClawLift_hlp
+    400114: badger_r_ClawTap_hlp
+    400116: badger_r_Ear-nub_bone
+    400118: badger_r_Ear_bone
+    400120: badger_r_Ear_ctrl
+    400122: badger_r_Foot_ctrl
+    400124: badger_r_Heel_hlp
+    400126: badger_r_heel_IKGoal
+    400128: badger_r_HeelPeel_hlp
+    400130: badger_r_Humerus_bone
+    400132: badger_r_Knee_bone
+    400134: badger_r_LowEyelid-nub_bone
+    400136: badger_r_LowEyelid_bone
+    400138: badger_r_LowEyelid_ctrl
+    400140: badger_r_Metacarpus_bone
+    400142: badger_r_Paw-nub_bone
+    400144: badger_r_Paw_bone
+    400146: badger_r_Paw_ctrl
+    400148: badger_r_pivot_IKGoal
+    400150: badger_r_Radius_bone
+    400152: badger_r_Scapula_ctrl
+    400154: badger_r_Thigh_bone
+    400156: badger_r_Toe-nub_bone
+    400158: badger_r_Toe_bone
+    400160: badger_r_toe_IKGoal
+    400162: badger_r_ToeLift_hlp
+    400164: badger_r_ToeTap_hlp
+    400166: badger_r_UpEyelid-nub_bone
+    400168: badger_r_UpEyelid_bone
+    400170: badger_r_UpEyelid_ctrl
+    400172: badger_r_wrist_IKGoal
+    400174: badger_r_WristPeel_hlp
+    400176: badger_r_WristPeel_hlp001
+    400178: badger_Snout-nub_bone
+    400180: badger_Snout_bone
+    400182: badger_Snout_ctrl
+    400184: badger_Spine1_bone
+    400186: badger_Spine2_bone
+    400188: badger_Spine3_bone
+    400190: badger_Spine_ctrl
+    400192: badger_SpineBase_ctrl
+    400194: badger_Tail1_bone
+    400196: badger_Tail1_ctrl
+    400198: badger_Tail2_bone
+    400200: badger_Tail2_ctrl
+    400202: badger_Tail3_bone
+    400204: badger_Tail3_ctrl
+    400206: badger_Tail4_bone
+    400208: badger_Tail4_ctrl
+    400210: badger_Tail5_bone
+    400212: badger_Tail5_ctrl
+    400214: badger_Tail6-nub_bone
+    400216: badger_Tail6_bone
+    400218: badger_Tail6_ctrl
+    400220: Teeth_mesh
+    2300000: badger_l_Foot_ctrl
+    2300002: badger_l_Paw_ctrl
+    2300004: badger_r_Foot_ctrl
+    2300006: badger_r_Paw_ctrl
+    3300000: badger_l_Foot_ctrl
+    3300002: badger_l_Paw_ctrl
+    3300004: badger_r_Foot_ctrl
+    3300006: badger_r_Paw_ctrl
+    4300000: Badger_mesh
+    4300002: Teeth_mesh
+    4300004: badger_r_Foot_ctrl
+    4300006: badger_l_Foot_ctrl
+    4300008: badger_r_Paw_ctrl
+    4300010: badger_l_Paw_ctrl
+    7400000: trot
+    9500000: //RootNode
+    13700000: Badger_mesh
+    13700002: Teeth_mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .100000001
+    animationPositionError: .100000001
+    animationScaleError: .100000001
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: trot
+      takeName: Take 001
+      firstFrame: 584
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: badger_Head_ctrl
+        weight: 1
+      - path: badger_Hip_ctrl
+        weight: 1
+      - path: badger_Main_ctrl
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_l_Thigh_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_l_Thigh_bone/badger_l_Knee_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_l_Thigh_bone/badger_l_Knee_bone/badger_l_Ankle_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_l_Thigh_bone/badger_l_Knee_bone/badger_l_Ankle_bone/badger_l_Toe_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_l_Thigh_bone/badger_l_Knee_bone/badger_l_Ankle_bone/badger_l_Toe_bone/badger_l_Toe-nub_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_r_Thigh_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_r_Thigh_bone/badger_r_Knee_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_r_Thigh_bone/badger_r_Knee_bone/badger_r_Ankle_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_r_Thigh_bone/badger_r_Knee_bone/badger_r_Ankle_bone/badger_r_Toe_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_r_Thigh_bone/badger_r_Knee_bone/badger_r_Ankle_bone/badger_r_Toe_bone/badger_r_Toe-nub_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_l_Scapula_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_l_Scapula_bone/badger_l_Humerus_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_l_Scapula_bone/badger_l_Humerus_bone/badger_l_Radius_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_l_Scapula_bone/badger_l_Humerus_bone/badger_l_Radius_bone/badger_l_Metacarpus_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_l_Scapula_bone/badger_l_Humerus_bone/badger_l_Radius_bone/badger_l_Metacarpus_bone/badger_l_Paw_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_l_Scapula_bone/badger_l_Humerus_bone/badger_l_Radius_bone/badger_l_Metacarpus_bone/badger_l_Paw_bone/badger_l_Paw-nub_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_l_Scapula_ctrl
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_l_Scapula_ctrl
+          1
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone/badger_l_Ear_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone/badger_l_Ear_bone/badger_l_Ear-nub_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone/badger_l_Ear_ctrl
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone/badger_l_LowEyelid_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone/badger_l_LowEyelid_bone/badger_l_LowEyelid-nub_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone/badger_l_LowEyelid_ctrl
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone/badger_l_UpEyelid_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone/badger_l_UpEyelid_bone/badger_l_UpEyelid-nub_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone/badger_l_UpEyelid_ctrl
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone/badger_Mandible_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone/badger_Mandible_bone/badger_Jaw_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone/badger_Mandible_bone/badger_Jaw_bone/badger_Jaw-nub_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone/badger_Mandible_ctrl
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone/badger_Mandible_ctrl/badger_Jaw_ctrl
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone/badger_r_Ear_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone/badger_r_Ear_bone/badger_r_Ear-nub_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone/badger_r_Ear_ctrl
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone/badger_r_LowEyelid_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone/badger_r_LowEyelid_bone/badger_r_LowEyelid-nub_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone/badger_r_LowEyelid_ctrl
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone/badger_r_UpEyelid_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone/badger_r_UpEyelid_bone/badger_r_UpEyelid-nub_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone/badger_r_UpEyelid_ctrl
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone/badger_Snout_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone/badger_Snout_bone/badger_Snout-nub_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_Neck_bone/badger_Head_bone/badger_Snout_ctrl
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_r_Scapula_ctrl
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_r_Scapula_ctrl/badger_r_Humerus_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_r_Scapula_ctrl/badger_r_Humerus_bone/badger_r_Radius_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_r_Scapula_ctrl/badger_r_Humerus_bone/badger_r_Radius_bone/badger_r_Metacarpus_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_r_Scapula_ctrl/badger_r_Humerus_bone/badger_r_Radius_bone/badger_r_Metacarpus_bone/badger_r_Paw_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Spine1_bone/badger_Spine2_bone/badger_Spine3_bone/badger_r_Scapula_ctrl/badger_r_Humerus_bone/badger_r_Radius_bone/badger_r_Metacarpus_bone/badger_r_Paw_bone/badger_r_Paw-nub_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Tail1_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Tail1_bone/badger_Tail2_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Tail1_bone/badger_Tail2_bone/badger_Tail3_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Tail1_bone/badger_Tail2_bone/badger_Tail3_bone/badger_Tail4_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Tail1_bone/badger_Tail2_bone/badger_Tail3_bone/badger_Tail4_bone/badger_Tail5_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Tail1_bone/badger_Tail2_bone/badger_Tail3_bone/badger_Tail4_bone/badger_Tail5_bone/badger_Tail6_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Tail1_bone/badger_Tail2_bone/badger_Tail3_bone/badger_Tail4_bone/badger_Tail5_bone/badger_Tail6_bone/badger_Tail6-nub_bone
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Tail1_ctrl
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Tail1_ctrl/badger_Tail2_ctrl
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Tail1_ctrl/badger_Tail2_ctrl/badger_Tail3_ctrl
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Tail1_ctrl/badger_Tail2_ctrl/badger_Tail3_ctrl/badger_Tail4_ctrl
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Tail1_ctrl/badger_Tail2_ctrl/badger_Tail3_ctrl/badger_Tail4_ctrl/badger_Tail5_ctrl
+        weight: 1
+      - path: badger_Main_ctrl/badger_COM_ctrl/badger_Pelvis_bone/badger_Tail1_ctrl/badger_Tail2_ctrl/badger_Tail3_ctrl/badger_Tail4_ctrl/badger_Tail5_ctrl/badger_Tail6_ctrl
+        weight: 1
+      - path: badger_Main_ctrl/badger_l_Foot_ctrl
+        weight: 1
+      - path: badger_Main_ctrl/badger_l_Foot_ctrl/badger_l_Heel_hlp
+        weight: 1
+      - path: badger_Main_ctrl/badger_l_Foot_ctrl/badger_l_Heel_hlp/badger_l_ToeLift_hlp
+        weight: 1
+      - path: badger_Main_ctrl/badger_l_Foot_ctrl/badger_l_Heel_hlp/badger_l_ToeLift_hlp/badger_l_HeelPeel_hlp
+        weight: 1
+      - path: badger_Main_ctrl/badger_l_Foot_ctrl/badger_l_Heel_hlp/badger_l_ToeLift_hlp/badger_l_HeelPeel_hlp/badger_l_ball_IKGoal
+        weight: 1
+      - path: badger_Main_ctrl/badger_l_Foot_ctrl/badger_l_Heel_hlp/badger_l_ToeLift_hlp/badger_l_HeelPeel_hlp/badger_l_heel_IKGoal
+        weight: 1
+      - path: badger_Main_ctrl/badger_l_Foot_ctrl/badger_l_Heel_hlp/badger_l_ToeLift_hlp/badger_l_ToeTap_hlp
+        weight: 1
+      - path: badger_Main_ctrl/badger_l_Foot_ctrl/badger_l_Heel_hlp/badger_l_ToeLift_hlp/badger_l_ToeTap_hlp/badger_l_toe_IKGoal
+        weight: 1
+      - path: badger_Main_ctrl/badger_l_Paw_ctrl
+        weight: 1
+      - path: badger_Main_ctrl/badger_l_Paw_ctrl/badger_l_Wrist_hlp
+        weight: 1
+      - path: badger_Main_ctrl/badger_l_Paw_ctrl/badger_l_Wrist_hlp/badger_l_ClawLift_hlp
+        weight: 1
+      - path: badger_Main_ctrl/badger_l_Paw_ctrl/badger_l_Wrist_hlp/badger_l_ClawLift_hlp/badger_l_ClawTap_hlp
+        weight: 1
+      - path: badger_Main_ctrl/badger_l_Paw_ctrl/badger_l_Wrist_hlp/badger_l_ClawLift_hlp/badger_l_ClawTap_hlp/badger_l_claw_IKGoal
+        weight: 1
+      - path: badger_Main_ctrl/badger_l_Paw_ctrl/badger_l_Wrist_hlp/badger_l_ClawLift_hlp/badger_l_WristPeel_hlp
+        weight: 1
+      - path: badger_Main_ctrl/badger_l_Paw_ctrl/badger_l_Wrist_hlp/badger_l_ClawLift_hlp/badger_l_WristPeel_hlp/badger_l_pivot_IKGoal
+        weight: 1
+      - path: badger_Main_ctrl/badger_l_Paw_ctrl/badger_l_Wrist_hlp/badger_l_ClawLift_hlp/badger_l_WristPeel_hlp/badger_l_wrist_IKGoal
+        weight: 1
+      - path: badger_Main_ctrl/badger_r_Foot_ctrl
+        weight: 1
+      - path: badger_Main_ctrl/badger_r_Foot_ctrl/badger_r_Heel_hlp
+        weight: 1
+      - path: badger_Main_ctrl/badger_r_Foot_ctrl/badger_r_Heel_hlp/badger_r_ToeLift_hlp
+        weight: 1
+      - path: badger_Main_ctrl/badger_r_Foot_ctrl/badger_r_Heel_hlp/badger_r_ToeLift_hlp/badger_r_HeelPeel_hlp
+        weight: 1
+      - path: badger_Main_ctrl/badger_r_Foot_ctrl/badger_r_Heel_hlp/badger_r_ToeLift_hlp/badger_r_HeelPeel_hlp/badger_r_ball_IKGoal
+        weight: 1
+      - path: badger_Main_ctrl/badger_r_Foot_ctrl/badger_r_Heel_hlp/badger_r_ToeLift_hlp/badger_r_HeelPeel_hlp/badger_r_heel_IKGoal
+        weight: 1
+      - path: badger_Main_ctrl/badger_r_Foot_ctrl/badger_r_Heel_hlp/badger_r_ToeLift_hlp/badger_r_ToeTap_hlp
+        weight: 1
+      - path: badger_Main_ctrl/badger_r_Foot_ctrl/badger_r_Heel_hlp/badger_r_ToeLift_hlp/badger_r_ToeTap_hlp/badger_r_toe_IKGoal
+        weight: 1
+      - path: badger_Main_ctrl/badger_r_Paw_ctrl
+        weight: 1
+      - path: badger_Main_ctrl/badger_r_Paw_ctrl/badger_r_WristPeel_hlp001
+        weight: 1
+      - path: badger_Main_ctrl/badger_r_Paw_ctrl/badger_r_WristPeel_hlp001/badger_r_ClawLift_hlp
+        weight: 1
+      - path: badger_Main_ctrl/badger_r_Paw_ctrl/badger_r_WristPeel_hlp001/badger_r_ClawLift_hlp/badger_r_ClawTap_hlp
+        weight: 1
+      - path: badger_Main_ctrl/badger_r_Paw_ctrl/badger_r_WristPeel_hlp001/badger_r_ClawLift_hlp/badger_r_ClawTap_hlp/badger_r_claw_IKGoal
+        weight: 1
+      - path: badger_Main_ctrl/badger_r_Paw_ctrl/badger_r_WristPeel_hlp001/badger_r_ClawLift_hlp/badger_r_WristPeel_hlp
+        weight: 1
+      - path: badger_Main_ctrl/badger_r_Paw_ctrl/badger_r_WristPeel_hlp001/badger_r_ClawLift_hlp/badger_r_WristPeel_hlp/badger_r_pivot_IKGoal
+        weight: 1
+      - path: badger_Main_ctrl/badger_r_Paw_ctrl/badger_r_WristPeel_hlp001/badger_r_ClawLift_hlp/badger_r_WristPeel_hlp/badger_r_wrist_IKGoal
+        weight: 1
+      - path: Badger_mesh
+        weight: 1
+      - path: badger_Neck_ctrl
+        weight: 1
+      - path: badger_Spine_ctrl
+        weight: 1
+      - path: badger_SpineBase_ctrl
+        weight: 1
+      - path: Teeth_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: badger_Main_ctrl
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
