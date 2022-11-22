@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 4b4a9f86faa5eb340986e0bbaebdad83
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: RABBIT_
+    100004: RABBIT_ Footsteps
+    100006: RABBIT_ Head
+    100008: RABBIT_ L Calf
+    100010: RABBIT_ L Clavicle
+    100012: RABBIT_ L Foot
+    100014: RABBIT_ L Forearm
+    100016: RABBIT_ L Hand
+    100018: RABBIT_ L Thigh
+    100020: RABBIT_ L Toe0
+    100022: RABBIT_ L UpperArm
+    100024: RABBIT_ Neck
+    100026: RABBIT_ Neck1
+    100028: RABBIT_ Pelvis
+    100030: RABBIT_ Queue de cheval 1
+    100032: RABBIT_ Queue de cheval 2
+    100034: RABBIT_ R Calf
+    100036: RABBIT_ R Clavicle
+    100038: RABBIT_ R Foot
+    100040: RABBIT_ R Forearm
+    100042: RABBIT_ R Hand
+    100044: RABBIT_ R Thigh
+    100046: RABBIT_ R Toe0
+    100048: RABBIT_ R UpperArm
+    100050: RABBIT_ Spine
+    100052: RABBIT_ Spine1
+    100054: root
+    400000: //RootNode
+    400002: RABBIT_
+    400004: RABBIT_ Footsteps
+    400006: RABBIT_ Head
+    400008: RABBIT_ L Calf
+    400010: RABBIT_ L Clavicle
+    400012: RABBIT_ L Foot
+    400014: RABBIT_ L Forearm
+    400016: RABBIT_ L Hand
+    400018: RABBIT_ L Thigh
+    400020: RABBIT_ L Toe0
+    400022: RABBIT_ L UpperArm
+    400024: RABBIT_ Neck
+    400026: RABBIT_ Neck1
+    400028: RABBIT_ Pelvis
+    400030: RABBIT_ Queue de cheval 1
+    400032: RABBIT_ Queue de cheval 2
+    400034: RABBIT_ R Calf
+    400036: RABBIT_ R Clavicle
+    400038: RABBIT_ R Foot
+    400040: RABBIT_ R Forearm
+    400042: RABBIT_ R Hand
+    400044: RABBIT_ R Thigh
+    400046: RABBIT_ R Toe0
+    400048: RABBIT_ R UpperArm
+    400050: RABBIT_ Spine
+    400052: RABBIT_ Spine1
+    400054: root
+    7400000: Walk_RM
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk_RM
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 21
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/RABBIT_
+        weight: 1
+      - path: root/RABBIT_/RABBIT_ Footsteps
+        weight: 1
+      - path: root/RABBIT_/RABBIT_ Pelvis
+        weight: 1
+      - path: root/RABBIT_/RABBIT_ Pelvis/RABBIT_ L Thigh
+        weight: 1
+      - path: root/RABBIT_/RABBIT_ Pelvis/RABBIT_ L Thigh/RABBIT_ L Calf
+        weight: 1
+      - path: root/RABBIT_/RABBIT_ Pelvis/RABBIT_ L Thigh/RABBIT_ L Calf/RABBIT_ L
+          Foot
+        weight: 1
+      - path: root/RABBIT_/RABBIT_ Pelvis/RABBIT_ L Thigh/RABBIT_ L Calf/RABBIT_ L
+          Foot/RABBIT_ L Toe0
+        weight: 1
+      - path: root/RABBIT_/RABBIT_ Pelvis/RABBIT_ R Thigh
+        weight: 1
+      - path: root/RABBIT_/RABBIT_ Pelvis/RABBIT_ R Thigh/RABBIT_ R Calf
+        weight: 1
+      - path: root/RABBIT_/RABBIT_ Pelvis/RABBIT_ R Thigh/RABBIT_ R Calf/RABBIT_ R
+          Foot
+        weight: 1
+      - path: root/RABBIT_/RABBIT_ Pelvis/RABBIT_ R Thigh/RABBIT_ R Calf/RABBIT_ R
+          Foot/RABBIT_ R Toe0
+        weight: 1
+      - path: root/RABBIT_/RABBIT_ Pelvis/RABBIT_ Spine
+        weight: 1
+      - path: root/RABBIT_/RABBIT_ Pelvis/RABBIT_ Spine/RABBIT_ Spine1
+        weight: 1
+      - path: root/RABBIT_/RABBIT_ Pelvis/RABBIT_ Spine/RABBIT_ Spine1/RABBIT_ L Clavicle
+        weight: 1
+      - path: root/RABBIT_/RABBIT_ Pelvis/RABBIT_ Spine/RABBIT_ Spine1/RABBIT_ L Clavicle/RABBIT_
+          L UpperArm
+        weight: 1
+      - path: root/RABBIT_/RABBIT_ Pelvis/RABBIT_ Spine/RABBIT_ Spine1/RABBIT_ L Clavicle/RABBIT_
+          L UpperArm/RABBIT_ L Forearm
+        weight: 1
+      - path: root/RABBIT_/RABBIT_ Pelvis/RABBIT_ Spine/RABBIT_ Spine1/RABBIT_ L Clavicle/RABBIT_
+          L UpperArm/RABBIT_ L Forearm/RABBIT_ L Hand
+        weight: 1
+      - path: root/RABBIT_/RABBIT_ Pelvis/RABBIT_ Spine/RABBIT_ Spine1/RABBIT_ Neck
+        weight: 1
+      - path: root/RABBIT_/RABBIT_ Pelvis/RABBIT_ Spine/RABBIT_ Spine1/RABBIT_ Neck/RABBIT_
+          Neck1
+        weight: 1
+      - path: root/RABBIT_/RABBIT_ Pelvis/RABBIT_ Spine/RABBIT_ Spine1/RABBIT_ Neck/RABBIT_
+          Neck1/RABBIT_ Head
+        weight: 1
+      - path: root/RABBIT_/RABBIT_ Pelvis/RABBIT_ Spine/RABBIT_ Spine1/RABBIT_ Neck/RABBIT_
+          Neck1/RABBIT_ Head/RABBIT_ Queue de cheval 1
+        weight: 1
+      - path: root/RABBIT_/RABBIT_ Pelvis/RABBIT_ Spine/RABBIT_ Spine1/RABBIT_ Neck/RABBIT_
+          Neck1/RABBIT_ Head/RABBIT_ Queue de cheval 2
+        weight: 1
+      - path: root/RABBIT_/RABBIT_ Pelvis/RABBIT_ Spine/RABBIT_ Spine1/RABBIT_ R Clavicle
+        weight: 1
+      - path: root/RABBIT_/RABBIT_ Pelvis/RABBIT_ Spine/RABBIT_ Spine1/RABBIT_ R Clavicle/RABBIT_
+          R UpperArm
+        weight: 1
+      - path: root/RABBIT_/RABBIT_ Pelvis/RABBIT_ Spine/RABBIT_ Spine1/RABBIT_ R Clavicle/RABBIT_
+          R UpperArm/RABBIT_ R Forearm
+        weight: 1
+      - path: root/RABBIT_/RABBIT_ Pelvis/RABBIT_ Spine/RABBIT_ Spine1/RABBIT_ R Clavicle/RABBIT_
+          R UpperArm/RABBIT_ R Forearm/RABBIT_ R Hand
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: a599142d59c888040b646be41f9bbc34,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

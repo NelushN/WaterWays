@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: cc90cd805acbed9458116199d00361f0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: root
+    100002: //RootNode
+    100004: SK_Stag_LOD0
+    100006: SK_Stag_LOD1
+    100008: SK_Stag_LOD2
+    100010: SK_Stag_LOD3
+    100012: STAG_
+    100014: STAG_ Head
+    100016: STAG_ L Calf
+    100018: STAG_ L Clavicle
+    100020: STAG_ L Finger0
+    100022: STAG_ L Foot
+    100024: STAG_ L Forearm
+    100026: STAG_ L Hand
+    100028: STAG_ L HorseLink
+    100030: STAG_ L Thigh
+    100032: STAG_ L UpperArm
+    100034: STAG_ Neck
+    100036: STAG_ Neck1
+    100038: STAG_ Neck2
+    100040: STAG_ Pelvis
+    100042: STAG_ Ponytail1
+    100044: STAG_ R Calf
+    100046: STAG_ R Clavicle
+    100048: STAG_ R Finger0
+    100050: STAG_ R Foot
+    100052: STAG_ R Forearm
+    100054: STAG_ R Hand
+    100056: STAG_ R HorseLink
+    100058: STAG_ R Thigh
+    100060: STAG_ R UpperArm
+    100062: STAG_ Spine
+    100064: STAG_ Spine1
+    100066: STAG_ Tail
+    100068: STAG_ Tail1
+    100070: STAG_ Tail2
+    400000: root
+    400002: //RootNode
+    400004: SK_Stag_LOD0
+    400006: SK_Stag_LOD1
+    400008: SK_Stag_LOD2
+    400010: SK_Stag_LOD3
+    400012: STAG_
+    400014: STAG_ Head
+    400016: STAG_ L Calf
+    400018: STAG_ L Clavicle
+    400020: STAG_ L Finger0
+    400022: STAG_ L Foot
+    400024: STAG_ L Forearm
+    400026: STAG_ L Hand
+    400028: STAG_ L HorseLink
+    400030: STAG_ L Thigh
+    400032: STAG_ L UpperArm
+    400034: STAG_ Neck
+    400036: STAG_ Neck1
+    400038: STAG_ Neck2
+    400040: STAG_ Pelvis
+    400042: STAG_ Ponytail1
+    400044: STAG_ R Calf
+    400046: STAG_ R Clavicle
+    400048: STAG_ R Finger0
+    400050: STAG_ R Foot
+    400052: STAG_ R Forearm
+    400054: STAG_ R Hand
+    400056: STAG_ R HorseLink
+    400058: STAG_ R Thigh
+    400060: STAG_ R UpperArm
+    400062: STAG_ Spine
+    400064: STAG_ Spine1
+    400066: STAG_ Tail
+    400068: STAG_ Tail1
+    400070: STAG_ Tail2
+    2100000: M_DeerStag
+    2100002: M_DeerStagFur
+    4300000: SK_Stag_LOD0
+    4300002: SK_Stag_LOD1
+    4300004: SK_Stag_LOD2
+    4300006: SK_Stag_LOD3
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: SK_Stag_LOD0
+    13700002: SK_Stag_LOD1
+    13700004: SK_Stag_LOD2
+    13700006: SK_Stag_LOD3
+    20500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

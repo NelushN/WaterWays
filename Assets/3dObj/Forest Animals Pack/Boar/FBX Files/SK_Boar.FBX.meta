@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 2577d6f8a42ae22478c120662f97342b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BOAR_
+    100002: BOAR_ Head
+    100004: BOAR_ L Calf
+    100006: BOAR_ L Clavicle
+    100008: BOAR_ L Finger0
+    100010: BOAR_ L Foot
+    100012: BOAR_ L Forearm
+    100014: BOAR_ L Hand
+    100016: BOAR_ L HorseLink
+    100018: BOAR_ L Thigh
+    100020: BOAR_ L Toe0
+    100022: BOAR_ L UpperArm
+    100024: BOAR_ Neck
+    100026: BOAR_ Neck1
+    100028: BOAR_ Pelvis
+    100030: BOAR_ Queue de cheval 1
+    100032: BOAR_ R Calf
+    100034: BOAR_ R Clavicle
+    100036: BOAR_ R Finger0
+    100038: BOAR_ R Foot
+    100040: BOAR_ R Forearm
+    100042: BOAR_ R Hand
+    100044: BOAR_ R HorseLink
+    100046: BOAR_ R Thigh
+    100048: BOAR_ R Toe0
+    100050: BOAR_ R UpperArm
+    100052: BOAR_ Spine
+    100054: BOAR_ Spine1
+    100056: BOAR_ Tail
+    100058: BOAR_ Tail1
+    100060: BOAR_ Tail2
+    100062: BOAR_ Tail3
+    100064: BOAR_ Tail4
+    100066: root
+    100068: //RootNode
+    100070: SK_Boar_LOD0
+    100072: SK_Boar_LOD1
+    100074: SK_Boar_LOD2
+    100076: SK_Boar_LOD3
+    400000: BOAR_
+    400002: BOAR_ Head
+    400004: BOAR_ L Calf
+    400006: BOAR_ L Clavicle
+    400008: BOAR_ L Finger0
+    400010: BOAR_ L Foot
+    400012: BOAR_ L Forearm
+    400014: BOAR_ L Hand
+    400016: BOAR_ L HorseLink
+    400018: BOAR_ L Thigh
+    400020: BOAR_ L Toe0
+    400022: BOAR_ L UpperArm
+    400024: BOAR_ Neck
+    400026: BOAR_ Neck1
+    400028: BOAR_ Pelvis
+    400030: BOAR_ Queue de cheval 1
+    400032: BOAR_ R Calf
+    400034: BOAR_ R Clavicle
+    400036: BOAR_ R Finger0
+    400038: BOAR_ R Foot
+    400040: BOAR_ R Forearm
+    400042: BOAR_ R Hand
+    400044: BOAR_ R HorseLink
+    400046: BOAR_ R Thigh
+    400048: BOAR_ R Toe0
+    400050: BOAR_ R UpperArm
+    400052: BOAR_ Spine
+    400054: BOAR_ Spine1
+    400056: BOAR_ Tail
+    400058: BOAR_ Tail1
+    400060: BOAR_ Tail2
+    400062: BOAR_ Tail3
+    400064: BOAR_ Tail4
+    400066: root
+    400068: //RootNode
+    400070: SK_Boar_LOD0
+    400072: SK_Boar_LOD1
+    400074: SK_Boar_LOD2
+    400076: SK_Boar_LOD3
+    2100000: M_Boar
+    2100002: M_BoarFur
+    4300000: SK_Boar_LOD0
+    4300002: SK_Boar_LOD1
+    4300004: SK_Boar_LOD2
+    4300006: SK_Boar_LOD3
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: SK_Boar_LOD0
+    13700002: SK_Boar_LOD1
+    13700004: SK_Boar_LOD2
+    13700006: SK_Boar_LOD3
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Boar
+    second: {fileID: 2100000, guid: 5fc4700bda0900d428bce1a8bc55a1a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_BoarFur
+    second: {fileID: 2100000, guid: efbf8251943a68545963200d8edc7e93, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

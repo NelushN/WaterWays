@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 9e5bbaa5c3bae13488d2e398172440c3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: root
+    100004: STAG_
+    100006: STAG_ Head
+    100008: STAG_ L Calf
+    100010: STAG_ L Clavicle
+    100012: STAG_ L Finger0
+    100014: STAG_ L Foot
+    100016: STAG_ L Forearm
+    100018: STAG_ L Hand
+    100020: STAG_ L HorseLink
+    100022: STAG_ L Thigh
+    100024: STAG_ L UpperArm
+    100026: STAG_ Neck
+    100028: STAG_ Neck1
+    100030: STAG_ Neck2
+    100032: STAG_ Pelvis
+    100034: STAG_ Ponytail1
+    100036: STAG_ R Calf
+    100038: STAG_ R Clavicle
+    100040: STAG_ R Finger0
+    100042: STAG_ R Foot
+    100044: STAG_ R Forearm
+    100046: STAG_ R Hand
+    100048: STAG_ R HorseLink
+    100050: STAG_ R Thigh
+    100052: STAG_ R UpperArm
+    100054: STAG_ Spine
+    100056: STAG_ Spine1
+    100058: STAG_ Tail
+    100060: STAG_ Tail1
+    100062: STAG_ Tail2
+    400000: //RootNode
+    400002: root
+    400004: STAG_
+    400006: STAG_ Head
+    400008: STAG_ L Calf
+    400010: STAG_ L Clavicle
+    400012: STAG_ L Finger0
+    400014: STAG_ L Foot
+    400016: STAG_ L Forearm
+    400018: STAG_ L Hand
+    400020: STAG_ L HorseLink
+    400022: STAG_ L Thigh
+    400024: STAG_ L UpperArm
+    400026: STAG_ Neck
+    400028: STAG_ Neck1
+    400030: STAG_ Neck2
+    400032: STAG_ Pelvis
+    400034: STAG_ Ponytail1
+    400036: STAG_ R Calf
+    400038: STAG_ R Clavicle
+    400040: STAG_ R Finger0
+    400042: STAG_ R Foot
+    400044: STAG_ R Forearm
+    400046: STAG_ R Hand
+    400048: STAG_ R HorseLink
+    400050: STAG_ R Thigh
+    400052: STAG_ R UpperArm
+    400054: STAG_ Spine
+    400056: STAG_ Spine1
+    400058: STAG_ Tail
+    400060: STAG_ Tail1
+    400062: STAG_ Tail2
+    7400000: WalkTurnL_RM
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: WalkTurnL_RM
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/STAG_
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Spine
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Spine/STAG_ L Thigh
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Spine/STAG_ L Thigh/STAG_ L Calf
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Spine/STAG_ L Thigh/STAG_ L Calf/STAG_
+          L HorseLink
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Spine/STAG_ L Thigh/STAG_ L Calf/STAG_
+          L HorseLink/STAG_ L Foot
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Spine/STAG_ R Thigh
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Spine/STAG_ R Thigh/STAG_ R Calf
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Spine/STAG_ R Thigh/STAG_ R Calf/STAG_
+          R HorseLink
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Spine/STAG_ R Thigh/STAG_ R Calf/STAG_
+          R HorseLink/STAG_ R Foot
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Spine/STAG_ Spine1
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Spine/STAG_ Spine1/STAG_ L Clavicle
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Spine/STAG_ Spine1/STAG_ L Clavicle/STAG_
+          L UpperArm
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Spine/STAG_ Spine1/STAG_ L Clavicle/STAG_
+          L UpperArm/STAG_ L Forearm
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Spine/STAG_ Spine1/STAG_ L Clavicle/STAG_
+          L UpperArm/STAG_ L Forearm/STAG_ L Hand
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Spine/STAG_ Spine1/STAG_ L Clavicle/STAG_
+          L UpperArm/STAG_ L Forearm/STAG_ L Hand/STAG_ L Finger0
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Spine/STAG_ Spine1/STAG_ Neck
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Spine/STAG_ Spine1/STAG_ Neck/STAG_ Neck1
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Spine/STAG_ Spine1/STAG_ Neck/STAG_ Neck1/STAG_
+          Neck2
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Spine/STAG_ Spine1/STAG_ Neck/STAG_ Neck1/STAG_
+          Neck2/STAG_ Head
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Spine/STAG_ Spine1/STAG_ Neck/STAG_ Neck1/STAG_
+          Neck2/STAG_ Head/STAG_ Ponytail1
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Spine/STAG_ Spine1/STAG_ R Clavicle
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Spine/STAG_ Spine1/STAG_ R Clavicle/STAG_
+          R UpperArm
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Spine/STAG_ Spine1/STAG_ R Clavicle/STAG_
+          R UpperArm/STAG_ R Forearm
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Spine/STAG_ Spine1/STAG_ R Clavicle/STAG_
+          R UpperArm/STAG_ R Forearm/STAG_ R Hand
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Spine/STAG_ Spine1/STAG_ R Clavicle/STAG_
+          R UpperArm/STAG_ R Forearm/STAG_ R Hand/STAG_ R Finger0
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Tail
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Tail/STAG_ Tail1
+        weight: 1
+      - path: root/STAG_/STAG_ Pelvis/STAG_ Tail/STAG_ Tail1/STAG_ Tail2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: cc90cd805acbed9458116199d00361f0,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

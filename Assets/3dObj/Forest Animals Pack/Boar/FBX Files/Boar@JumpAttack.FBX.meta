@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: 2c1d1a849ec20464082197178df9bc60
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BOAR_
+    100004: BOAR_ Head
+    100006: BOAR_ L Calf
+    100008: BOAR_ L Clavicle
+    100010: BOAR_ L Finger0
+    100012: BOAR_ L Foot
+    100014: BOAR_ L Forearm
+    100016: BOAR_ L Hand
+    100018: BOAR_ L HorseLink
+    100020: BOAR_ L Thigh
+    100022: BOAR_ L Toe0
+    100024: BOAR_ L UpperArm
+    100026: BOAR_ Neck
+    100028: BOAR_ Neck1
+    100030: BOAR_ Pelvis
+    100032: BOAR_ Queue de cheval 1
+    100034: BOAR_ R Calf
+    100036: BOAR_ R Clavicle
+    100038: BOAR_ R Finger0
+    100040: BOAR_ R Foot
+    100042: BOAR_ R Forearm
+    100044: BOAR_ R Hand
+    100046: BOAR_ R HorseLink
+    100048: BOAR_ R Thigh
+    100050: BOAR_ R Toe0
+    100052: BOAR_ R UpperArm
+    100054: BOAR_ Spine
+    100056: BOAR_ Spine1
+    100058: BOAR_ Tail
+    100060: BOAR_ Tail1
+    100062: BOAR_ Tail2
+    100064: BOAR_ Tail3
+    100066: BOAR_ Tail4
+    100068: root
+    400000: //RootNode
+    400002: BOAR_
+    400004: BOAR_ Head
+    400006: BOAR_ L Calf
+    400008: BOAR_ L Clavicle
+    400010: BOAR_ L Finger0
+    400012: BOAR_ L Foot
+    400014: BOAR_ L Forearm
+    400016: BOAR_ L Hand
+    400018: BOAR_ L HorseLink
+    400020: BOAR_ L Thigh
+    400022: BOAR_ L Toe0
+    400024: BOAR_ L UpperArm
+    400026: BOAR_ Neck
+    400028: BOAR_ Neck1
+    400030: BOAR_ Pelvis
+    400032: BOAR_ Queue de cheval 1
+    400034: BOAR_ R Calf
+    400036: BOAR_ R Clavicle
+    400038: BOAR_ R Finger0
+    400040: BOAR_ R Foot
+    400042: BOAR_ R Forearm
+    400044: BOAR_ R Hand
+    400046: BOAR_ R HorseLink
+    400048: BOAR_ R Thigh
+    400050: BOAR_ R Toe0
+    400052: BOAR_ R UpperArm
+    400054: BOAR_ Spine
+    400056: BOAR_ Spine1
+    400058: BOAR_ Tail
+    400060: BOAR_ Tail1
+    400062: BOAR_ Tail2
+    400064: BOAR_ Tail3
+    400066: BOAR_ Tail4
+    400068: root
+    7400000: JumpAttack
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: JumpAttack
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/BOAR_
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ L Thigh
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ L Thigh/BOAR_ L Calf
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ L Thigh/BOAR_ L Calf/BOAR_ L HorseLink
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ L Thigh/BOAR_ L Calf/BOAR_ L HorseLink/BOAR_
+          L Foot
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ L Thigh/BOAR_ L Calf/BOAR_ L HorseLink/BOAR_
+          L Foot/BOAR_ L Toe0
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ R Thigh
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ R Thigh/BOAR_ R Calf
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ R Thigh/BOAR_ R Calf/BOAR_ R HorseLink
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ R Thigh/BOAR_ R Calf/BOAR_ R HorseLink/BOAR_
+          R Foot
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ R Thigh/BOAR_ R Calf/BOAR_ R HorseLink/BOAR_
+          R Foot/BOAR_ R Toe0
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ Spine
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ Spine/BOAR_ Spine1
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ Spine/BOAR_ Spine1/BOAR_ L Clavicle
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ Spine/BOAR_ Spine1/BOAR_ L Clavicle/BOAR_
+          L UpperArm
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ Spine/BOAR_ Spine1/BOAR_ L Clavicle/BOAR_
+          L UpperArm/BOAR_ L Forearm
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ Spine/BOAR_ Spine1/BOAR_ L Clavicle/BOAR_
+          L UpperArm/BOAR_ L Forearm/BOAR_ L Hand
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ Spine/BOAR_ Spine1/BOAR_ L Clavicle/BOAR_
+          L UpperArm/BOAR_ L Forearm/BOAR_ L Hand/BOAR_ L Finger0
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ Spine/BOAR_ Spine1/BOAR_ Neck
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ Spine/BOAR_ Spine1/BOAR_ Neck/BOAR_ Neck1
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ Spine/BOAR_ Spine1/BOAR_ Neck/BOAR_ Neck1/BOAR_
+          Head
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ Spine/BOAR_ Spine1/BOAR_ Neck/BOAR_ Neck1/BOAR_
+          Head/BOAR_ Queue de cheval 1
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ Spine/BOAR_ Spine1/BOAR_ R Clavicle
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ Spine/BOAR_ Spine1/BOAR_ R Clavicle/BOAR_
+          R UpperArm
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ Spine/BOAR_ Spine1/BOAR_ R Clavicle/BOAR_
+          R UpperArm/BOAR_ R Forearm
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ Spine/BOAR_ Spine1/BOAR_ R Clavicle/BOAR_
+          R UpperArm/BOAR_ R Forearm/BOAR_ R Hand
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ Spine/BOAR_ Spine1/BOAR_ R Clavicle/BOAR_
+          R UpperArm/BOAR_ R Forearm/BOAR_ R Hand/BOAR_ R Finger0
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ Tail
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ Tail/BOAR_ Tail1
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ Tail/BOAR_ Tail1/BOAR_ Tail2
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ Tail/BOAR_ Tail1/BOAR_ Tail2/BOAR_ Tail3
+        weight: 1
+      - path: root/BOAR_/BOAR_ Pelvis/BOAR_ Tail/BOAR_ Tail1/BOAR_ Tail2/BOAR_ Tail3/BOAR_
+          Tail4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 2577d6f8a42ae22478c120662f97342b,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

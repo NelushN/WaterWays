@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: 4c24856408c87a04c90133d86159ce8e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DeerDoe_
+    100004: DeerDoe_ Head
+    100006: DeerDoe_ L Calf
+    100008: DeerDoe_ L Clavicle
+    100010: DeerDoe_ L Finger0
+    100012: DeerDoe_ L Foot
+    100014: DeerDoe_ L Forearm
+    100016: DeerDoe_ L Hand
+    100018: DeerDoe_ L HorseLink
+    100020: DeerDoe_ L Thigh
+    100022: DeerDoe_ L UpperArm
+    100024: DeerDoe_ Neck
+    100026: DeerDoe_ Neck1
+    100028: DeerDoe_ Neck2
+    100030: DeerDoe_ Pelvis
+    100032: DeerDoe_ Ponytail1
+    100034: DeerDoe_ R Calf
+    100036: DeerDoe_ R Clavicle
+    100038: DeerDoe_ R Finger0
+    100040: DeerDoe_ R Foot
+    100042: DeerDoe_ R Forearm
+    100044: DeerDoe_ R Hand
+    100046: DeerDoe_ R HorseLink
+    100048: DeerDoe_ R Thigh
+    100050: DeerDoe_ R UpperArm
+    100052: DeerDoe_ Spine
+    100054: DeerDoe_ Spine1
+    100056: DeerDoe_ Tail
+    100058: DeerDoe_ Tail1
+    100060: DeerDoe_ Tail2
+    100062: root
+    400000: //RootNode
+    400002: DeerDoe_
+    400004: DeerDoe_ Head
+    400006: DeerDoe_ L Calf
+    400008: DeerDoe_ L Clavicle
+    400010: DeerDoe_ L Finger0
+    400012: DeerDoe_ L Foot
+    400014: DeerDoe_ L Forearm
+    400016: DeerDoe_ L Hand
+    400018: DeerDoe_ L HorseLink
+    400020: DeerDoe_ L Thigh
+    400022: DeerDoe_ L UpperArm
+    400024: DeerDoe_ Neck
+    400026: DeerDoe_ Neck1
+    400028: DeerDoe_ Neck2
+    400030: DeerDoe_ Pelvis
+    400032: DeerDoe_ Ponytail1
+    400034: DeerDoe_ R Calf
+    400036: DeerDoe_ R Clavicle
+    400038: DeerDoe_ R Finger0
+    400040: DeerDoe_ R Foot
+    400042: DeerDoe_ R Forearm
+    400044: DeerDoe_ R Hand
+    400046: DeerDoe_ R HorseLink
+    400048: DeerDoe_ R Thigh
+    400050: DeerDoe_ R UpperArm
+    400052: DeerDoe_ Spine
+    400054: DeerDoe_ Spine1
+    400056: DeerDoe_ Tail
+    400058: DeerDoe_ Tail1
+    400060: DeerDoe_ Tail2
+    400062: root
+    7400000: WalkTurnL_RM
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: WalkTurnL_RM
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/DeerDoe_
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Spine
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Spine/DeerDoe_ L Thigh
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Spine/DeerDoe_ L Thigh/DeerDoe_
+          L Calf
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Spine/DeerDoe_ L Thigh/DeerDoe_
+          L Calf/DeerDoe_ L HorseLink
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Spine/DeerDoe_ L Thigh/DeerDoe_
+          L Calf/DeerDoe_ L HorseLink/DeerDoe_ L Foot
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Spine/DeerDoe_ R Thigh
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Spine/DeerDoe_ R Thigh/DeerDoe_
+          R Calf
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Spine/DeerDoe_ R Thigh/DeerDoe_
+          R Calf/DeerDoe_ R HorseLink
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Spine/DeerDoe_ R Thigh/DeerDoe_
+          R Calf/DeerDoe_ R HorseLink/DeerDoe_ R Foot
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Spine/DeerDoe_ Spine1
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Spine/DeerDoe_ Spine1/DeerDoe_
+          L Clavicle
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Spine/DeerDoe_ Spine1/DeerDoe_
+          L Clavicle/DeerDoe_ L UpperArm
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Spine/DeerDoe_ Spine1/DeerDoe_
+          L Clavicle/DeerDoe_ L UpperArm/DeerDoe_ L Forearm
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Spine/DeerDoe_ Spine1/DeerDoe_
+          L Clavicle/DeerDoe_ L UpperArm/DeerDoe_ L Forearm/DeerDoe_ L Hand
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Spine/DeerDoe_ Spine1/DeerDoe_
+          L Clavicle/DeerDoe_ L UpperArm/DeerDoe_ L Forearm/DeerDoe_ L Hand/DeerDoe_
+          L Finger0
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Spine/DeerDoe_ Spine1/DeerDoe_
+          Neck
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Spine/DeerDoe_ Spine1/DeerDoe_
+          Neck/DeerDoe_ Neck1
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Spine/DeerDoe_ Spine1/DeerDoe_
+          Neck/DeerDoe_ Neck1/DeerDoe_ Neck2
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Spine/DeerDoe_ Spine1/DeerDoe_
+          Neck/DeerDoe_ Neck1/DeerDoe_ Neck2/DeerDoe_ Head
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Spine/DeerDoe_ Spine1/DeerDoe_
+          Neck/DeerDoe_ Neck1/DeerDoe_ Neck2/DeerDoe_ Head/DeerDoe_ Ponytail1
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Spine/DeerDoe_ Spine1/DeerDoe_
+          R Clavicle
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Spine/DeerDoe_ Spine1/DeerDoe_
+          R Clavicle/DeerDoe_ R UpperArm
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Spine/DeerDoe_ Spine1/DeerDoe_
+          R Clavicle/DeerDoe_ R UpperArm/DeerDoe_ R Forearm
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Spine/DeerDoe_ Spine1/DeerDoe_
+          R Clavicle/DeerDoe_ R UpperArm/DeerDoe_ R Forearm/DeerDoe_ R Hand
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Spine/DeerDoe_ Spine1/DeerDoe_
+          R Clavicle/DeerDoe_ R UpperArm/DeerDoe_ R Forearm/DeerDoe_ R Hand/DeerDoe_
+          R Finger0
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Tail
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Tail/DeerDoe_ Tail1
+        weight: 1
+      - path: root/DeerDoe_/DeerDoe_ Pelvis/DeerDoe_ Tail/DeerDoe_ Tail1/DeerDoe_
+          Tail2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 2b1cc777da3853d46860aa8236f9fcf5,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

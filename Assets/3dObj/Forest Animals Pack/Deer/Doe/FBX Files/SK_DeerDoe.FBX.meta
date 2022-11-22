@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 2b1cc777da3853d46860aa8236f9fcf5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: DeerDoe_
+    100002: DeerDoe_ Head
+    100004: DeerDoe_ L Calf
+    100006: DeerDoe_ L Clavicle
+    100008: DeerDoe_ L Finger0
+    100010: DeerDoe_ L Foot
+    100012: DeerDoe_ L Forearm
+    100014: DeerDoe_ L Hand
+    100016: DeerDoe_ L HorseLink
+    100018: DeerDoe_ L Thigh
+    100020: DeerDoe_ L UpperArm
+    100022: DeerDoe_ Neck
+    100024: DeerDoe_ Neck1
+    100026: DeerDoe_ Neck2
+    100028: DeerDoe_ Pelvis
+    100030: DeerDoe_ Ponytail1
+    100032: DeerDoe_ R Calf
+    100034: DeerDoe_ R Clavicle
+    100036: DeerDoe_ R Finger0
+    100038: DeerDoe_ R Foot
+    100040: DeerDoe_ R Forearm
+    100042: DeerDoe_ R Hand
+    100044: DeerDoe_ R HorseLink
+    100046: DeerDoe_ R Thigh
+    100048: DeerDoe_ R UpperArm
+    100050: DeerDoe_ Spine
+    100052: DeerDoe_ Spine1
+    100054: DeerDoe_ Tail
+    100056: DeerDoe_ Tail1
+    100058: DeerDoe_ Tail2
+    100060: root
+    100062: //RootNode
+    100064: SK_DeerDoe_LOD0
+    100066: SK_DeerDoe_LOD1
+    100068: SK_DeerDoe_LOD2
+    100070: SK_DeerDoe_LOD3
+    400000: DeerDoe_
+    400002: DeerDoe_ Head
+    400004: DeerDoe_ L Calf
+    400006: DeerDoe_ L Clavicle
+    400008: DeerDoe_ L Finger0
+    400010: DeerDoe_ L Foot
+    400012: DeerDoe_ L Forearm
+    400014: DeerDoe_ L Hand
+    400016: DeerDoe_ L HorseLink
+    400018: DeerDoe_ L Thigh
+    400020: DeerDoe_ L UpperArm
+    400022: DeerDoe_ Neck
+    400024: DeerDoe_ Neck1
+    400026: DeerDoe_ Neck2
+    400028: DeerDoe_ Pelvis
+    400030: DeerDoe_ Ponytail1
+    400032: DeerDoe_ R Calf
+    400034: DeerDoe_ R Clavicle
+    400036: DeerDoe_ R Finger0
+    400038: DeerDoe_ R Foot
+    400040: DeerDoe_ R Forearm
+    400042: DeerDoe_ R Hand
+    400044: DeerDoe_ R HorseLink
+    400046: DeerDoe_ R Thigh
+    400048: DeerDoe_ R UpperArm
+    400050: DeerDoe_ Spine
+    400052: DeerDoe_ Spine1
+    400054: DeerDoe_ Tail
+    400056: DeerDoe_ Tail1
+    400058: DeerDoe_ Tail2
+    400060: root
+    400062: //RootNode
+    400064: SK_DeerDoe_LOD0
+    400066: SK_DeerDoe_LOD1
+    400068: SK_DeerDoe_LOD2
+    400070: SK_DeerDoe_LOD3
+    2100000: M_DeerDoe
+    2100002: M_DeerDoeFur
+    4300000: SK_DeerDoe_LOD0
+    4300002: SK_DeerDoe_LOD1
+    4300004: SK_DeerDoe_LOD2
+    4300006: SK_DeerDoe_LOD3
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: SK_DeerDoe_LOD0
+    13700002: SK_DeerDoe_LOD1
+    13700004: SK_DeerDoe_LOD2
+    13700006: SK_DeerDoe_LOD3
+    20500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

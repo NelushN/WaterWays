@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 84586299cc1a7234d943128a2d2f2002
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BEAR_
+    100002: BEAR_ Footsteps
+    100004: BEAR_ Head
+    100006: BEAR_ L Calf
+    100008: BEAR_ L Clavicle
+    100010: BEAR_ L Finger0
+    100012: BEAR_ L Finger01
+    100014: BEAR_ L Foot
+    100016: BEAR_ L Forearm
+    100018: BEAR_ L Hand
+    100020: BEAR_ L Thigh
+    100022: BEAR_ L Toe0
+    100024: BEAR_ L Toe01
+    100026: BEAR_ L Toe02
+    100028: BEAR_ L UpperArm
+    100030: BEAR_ Neck
+    100032: BEAR_ Neck1
+    100034: BEAR_ Pelvis
+    100036: BEAR_ Queue de cheval 1
+    100038: BEAR_ R Calf
+    100040: BEAR_ R Clavicle
+    100042: BEAR_ R Finger0
+    100044: BEAR_ R Finger01
+    100046: BEAR_ R Foot
+    100048: BEAR_ R Forearm
+    100050: BEAR_ R Hand
+    100052: BEAR_ R Thigh
+    100054: BEAR_ R Toe0
+    100056: BEAR_ R Toe01
+    100058: BEAR_ R Toe02
+    100060: BEAR_ R UpperArm
+    100062: BEAR_ Spine
+    100064: BEAR_ Spine1
+    100066: Bear_LOD0
+    100068: Bear_LOD1
+    100070: Bear_LOD2
+    100072: Bear_LOD3
+    100074: root
+    100076: //RootNode
+    400000: BEAR_
+    400002: BEAR_ Footsteps
+    400004: BEAR_ Head
+    400006: BEAR_ L Calf
+    400008: BEAR_ L Clavicle
+    400010: BEAR_ L Finger0
+    400012: BEAR_ L Finger01
+    400014: BEAR_ L Foot
+    400016: BEAR_ L Forearm
+    400018: BEAR_ L Hand
+    400020: BEAR_ L Thigh
+    400022: BEAR_ L Toe0
+    400024: BEAR_ L Toe01
+    400026: BEAR_ L Toe02
+    400028: BEAR_ L UpperArm
+    400030: BEAR_ Neck
+    400032: BEAR_ Neck1
+    400034: BEAR_ Pelvis
+    400036: BEAR_ Queue de cheval 1
+    400038: BEAR_ R Calf
+    400040: BEAR_ R Clavicle
+    400042: BEAR_ R Finger0
+    400044: BEAR_ R Finger01
+    400046: BEAR_ R Foot
+    400048: BEAR_ R Forearm
+    400050: BEAR_ R Hand
+    400052: BEAR_ R Thigh
+    400054: BEAR_ R Toe0
+    400056: BEAR_ R Toe01
+    400058: BEAR_ R Toe02
+    400060: BEAR_ R UpperArm
+    400062: BEAR_ Spine
+    400064: BEAR_ Spine1
+    400066: Bear_LOD0
+    400068: Bear_LOD1
+    400070: Bear_LOD2
+    400072: Bear_LOD3
+    400074: root
+    400076: //RootNode
+    2100000: M_Bear
+    2100002: M_Bear_Fur
+    4300000: Bear_LOD0
+    4300002: Bear_LOD1
+    4300004: Bear_LOD2
+    4300006: Bear_LOD3
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Bear_LOD0
+    13700002: Bear_LOD1
+    13700004: Bear_LOD2
+    13700006: Bear_LOD3
+    20500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
