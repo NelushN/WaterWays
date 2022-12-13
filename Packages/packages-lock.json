@@ -350,7 +350,7 @@
         "com.unity.xr.oculus": "3.0.2",
         "com.unity.nuget.newtonsoft-json": "3.0.1"
       },
-      "hash": "796db87115a4532d3f8bfd29b6245c6ccb917a9b"
+      "hash": "4ba2dfe55c34aac02a36fec6137b963b98789d67"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
