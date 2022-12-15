@@ -810,6 +810,7 @@ PlayerSettings:
   scriptingDefineSymbols:
     Android: OCULUSINTEGRATION_PRESENT
     Standalone: OCULUSINTEGRATION_PRESENT
+    Windows Store Apps: 
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
