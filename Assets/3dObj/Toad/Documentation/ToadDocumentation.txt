@@ -1,0 +1,64 @@
+Meshes have 19134 tris.
+===Unity Materials description===
+Toad has two materials "Toad_MatBody" and "Toad_MatEyes". "Toad_MatEyes" is transparent. It is intended for EyeLids, EYELRog, EYERRog only. "Toad_MatBody" is intended for all another ones.
+"Plane_Mat" is intended for Plane in demo scene only. Toad_MatBody textures are 4k and Toad_MatEyes  textures are 2k.
+===Unity animations description===
+Model have blendshapes.
+All animations except the "Jump" are in-place.
+All animations except the "ToadRig_AttackDeath", "ToadRig_WaterAttackDeath" are Looped.
+Animations, wich are contained if fbx files and starting with a letter "Z" You shouldn't use.
+
+All antmations can be divided into 4 groups: Idle, Walk, Attack, Water animations.
+
+===Idle===
+For Idle animations in Unity Animator Controller I added "IdleInt" parameter. It takes values from 1 to 5.
+if its value equals       1     then commits transition to state     "ToadRig_IdleBreath"
+if its value equals       2     then commits transition to state     "ToadRig_IdleBreathBlink"
+if its value equals       3     then commits transition to state     "ToadRig_IdleScratch"
+if its value equals       4     then commits transition to state     "ToadRig_IdleLookBack"
+if its value equals       5     then commits transition to state     "ToadRig_IdleSleep"
+
+There is also "IdleSitHypnoInt" parameter. It takes values from 1 to 4.
+if its value equals       1     then commits transition to state     "ToadRig_IdleBreath"
+if its value equals       2     then commits transition to state     "ToadRig_IdleSit"
+if its value equals       3     then commits transition to state     "ToadRig_IdleSitSwing"
+if its value equals       4     then commits transition to state     "ToadRig_IdleHypnojaba"
+
+"IdleWalkJumpInt"  takes values from 1 to 3
+if its value equals       1     then commits transition to state     "ToadRig_IdleBreath"
+if its value equals       2     then commits transition to state     "WalkBlendTree"
+if its value equals       3     then commits transition to state     "Jump"
+
+
+WalkBlendTree consists of three trees. "Toad_AnimController.controller_Mouse_BF_BlendTree" is just a copy of  "Mouse_BF_BlendTree" (you can find this tree in the "Toad" folder).
+It is assumed that the "BF" (BackForward) parameter matches the up and down keys of keyboard, "LR" to left and right keys, "Mouse" to turn mouse left and right.
+
+===Attack===
+AttackBool parameter is condition for transition from Idle to Attack group of animations.
+
+AttackInt parameter takes values from 1 to 9.
+if its value equals       1     then commits transition to state     "ToadRig_IdleBreath0"
+if its value equals       2     then commits transition to state     "ToadRig_AttackJaws"
+if its value equals       3     then commits transition to state     "ToadRig_AttackJawsL"
+if its value equals       4     then commits transition to state     "ToadRig_AttackJawsR"
+if its value equals       5     then commits transition to state     "ToadRig_AttackTongue"
+if its value equals       6     then commits transition to state     "ToadRig_AttackJawsBigPray"
+if its value equals       7     then commits transition to state     "ToadRig_AttackThreat"
+if its value equals       8     then commits transition to state     "ToadRig_AttackDamage"
+if its value equals       9     then commits transition to state     "ToadRig_AttackDeath"
+
+
+===Water===
+"WaterBool" parameter is condition for transition from Idle to Water group of animations.
+
+"WaterInt" takes values from 1 to 8
+if its value equals       1     then commits transition to state     "ToadRig_WaterIdle"
+if its value equals       2     then commits transition to state     "ToadRig_WaterSwim"
+if its value equals       3     then commits transition to state     "ToadRig_WaterSwimBack"
+if its value equals       4     then commits transition to state     "ToadRig_WaterIdleBlink"
+if its value equals       5     then commits transition to state     "ToadRig_WaterAttackJaws"
+if its value equals       6     then commits transition to state     "ToadRig_WaterAttackTongue"
+if its value equals       7     then commits transition to state     "ToadRig_WaterAttackDamage"
+if its value equals       8     then commits transition to state     "ToadRig_WaterAttackDeath"
+
+===
