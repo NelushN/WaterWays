@@ -6,6 +6,7 @@ public class PanelOpener : MonoBehaviour
 {
     // [SerializeField]
     public GameObject panel;
+   // public AudioSource audioClip;
 
     public void OpenPanel()
     {
@@ -17,4 +18,10 @@ public class PanelOpener : MonoBehaviour
 
 
     }
+
+    //public void PlayAudio() 
+    //{
+
+    //    audioClip.Play();
+    //}
 }
